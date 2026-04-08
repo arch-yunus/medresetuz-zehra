@@ -80,208 +80,55 @@ Yapay zeka çağında, sadece bir "alan uzmanı" olmak yetersizdir. Gelecek, mü
 
 ---
 
-## 🎮 FAKÜLTELERİ KEŞFET
+## 🎓 BÖLÜMLER
 
-| Fakülte | Bölüm Sayısı | Bağlantı |
-| :--- | :---: | :---: |
-| ⚙️ **Mühendislik** | 28 | [![](https://img.shields.io/badge/-Keşfet-blue?style=flat-square)](FAK_MUHENDISLIK/) |
-| 🏛️ **Mimarlık & Tasarım** | 8 | [![](https://img.shields.io/badge/-Keşfet-blue?style=flat-square)](FAK_MIMARLIK_VE_TASARIM/) |
-| 🔬 **Doğa ve Uygulamalı Bilimler** | 6 | [![](https://img.shields.io/badge/-Keşfet-green?style=flat-square)](FAK_DOGAN_VE_UYGULAMALI_BILIMLER/) |
-| 🏥 **Tıp ve Sağlık** | 8 | [![](https://img.shields.io/badge/-Keşfet-red?style=flat-square)](FAK_TIP_VE_SAGLIK/) |
-| ⚖️ **Sosyal Bilimler** | 9 | [![](https://img.shields.io/badge/-Keşfet-green?style=flat-square)](FAK_SOSYAL_BILIMLER/) |
-| 📉 **İktisat ve İşletme** | 5 | [![](https://img.shields.io/badge/-Keşfet-blue?style=flat-square)](FAK_IKTISAT_VE_ISLETME/) |
-| 🚀 **Gelecek ve İleri Teknoloji** | 10 | [![](https://img.shields.io/badge/-Keşfet-purple?style=flat-square)](FAK_GELECEK_VE_ILERI_TEKNOLOJI/) |
-| 🎭 **Güzel Sanatlar & Tasarım** | 5 | [![](https://img.shields.io/badge/-Keşfet-orange?style=flat-square)](FAK_GUZEL_SANATLAR_VE_TASARIM/) |
-| 📡 **İletişim** | 4 | [![](https://img.shields.io/badge/-Keşfet-teal?style=flat-square)](FAK_ILETISIM/) |
-| ⚖️ **Hukuk** | 5 | [![](https://img.shields.io/badge/-Keşfet-darkblue?style=flat-square)](FAK_HUKUK/) |
-| 🌾 **Ziraat, Ormancılık & Çevre** | 7 | [![](https://img.shields.io/badge/-Keşfet-olive?style=flat-square)](FAK_ZIRAAT_ORMANCILIK_VE_CEVRE/) |
-| 🎓 **Eğitim** | 6 | [![](https://img.shields.io/badge/-Keşfet-gold?style=flat-square)](FAK_EGITIM/) |
-| 🕌 **İlahiyat** | 3 | [![](https://img.shields.io/badge/-Keşfet-brown?style=flat-square)](FAK_ILAHIYAT/) |
-| 🏃 **Spor Bilimleri** | 4 | [![](https://img.shields.io/badge/-Keşfet-lime?style=flat-square)](FAK_SPOR_BILIMLERI/) |
-| 🏨 **Turizm ve Otelcilik** | 3 | [![](https://img.shields.io/badge/-Keşfet-cyan?style=flat-square)](FAK_TURIZM_VE_OTELCILIK/) |
+Birim bazlı sınıflandırma olmaksızın, alfabetik sıraya göre YÖK standartlarındaki tam bölümler:
 
----
-
-## 🌳 MASTER BİLGİ AĞACI
-
-<details>
-<summary><b>⚙️ FAK_MUHENDISLIK (Mühendislik Fakültesi) — 28 Bölüm — Tıklayın</b></summary>
-<br>
-
-| Branş | Bölüm |
-| :--- | :--- |
-| 💻 **Yazılım & BT** | [Bilgisayar Müh.](FAK_MUHENDISLIK/bilgisayar_mühendisligi) • [Yazılım Müh.](FAK_MUHENDISLIK/yazilim_mühendisligi) • [Bilişim Sistemleri](FAK_MUHENDISLIK/bilişim_sistemleri_mühendisligi) • [Adli Bilişim](FAK_MUHENDISLIK/adli_bilisim_mühendisligi) |
-| ⚡ **Elektronik** | [Elektrik-Elektronik Müh.](FAK_MUHENDISLIK/elektrik_elektronik_mühendisligi) • [Elektronik Haberleşme](FAK_MUHENDISLIK/elektronik_haberlesme_muhendisligi) • [Optik](FAK_MUHENDISLIK/optik_mühendisligi) • [Akustik](FAK_MUHENDISLIK/akustik_mühendisligi) |
-| 🤖 **Robotik & AI** | [Mekatronik](FAK_MUHENDISLIK/mekatronik_mühendisligi) • [Yapay Zeka & Veri](FAK_MUHENDISLIK/yapay_zeka_ve_veri_mühendisligi) • [Kontrol-Otomasyon](FAK_MUHENDISLIK/kontrol-otomasyon_mühendisligi) |
-| ⚙️ **Mekanik** | [Makine](FAK_MUHENDISLIK/makine_mühendisligi) • [İmalat](FAK_MUHENDISLIK/imalat_mühendisligi) • [Mekatronik](FAK_MUHENDISLIK/mekatronik_mühendisligi) • [Endüstri](FAK_MUHENDISLIK/endüstri_mühendisligi) |
-| 🏗️ **İnşaat & Enerji** | [İnşaat](FAK_MUHENDISLIK/inşaat_mühendisligi) • [Enerji Sistemleri](FAK_MUHENDISLIK/enerji-sistemleri_mühendisligi) • [Harita](FAK_MUHENDISLIK/harita_mühendisligi) |
-| ✈️ **Havacılık** | [Havacılık ve Uzay](FAK_MUHENDISLIK/havacilik_uzay_mühendisligi) |
-| 🧪 **Proses & Malzeme** | [Kimya](FAK_MUHENDISLIK/kimya_mühendisligi) • [Metalurji](FAK_MUHENDISLIK/metalurji_malzeme_mühendisligi) • [Maden](FAK_MUHENDISLIK/maden_muhendisligi) • [Tekstil](FAK_MUHENDISLIK/tekstil_muhendisligi) |
-| 🧬 **Biyomedikal** | [Biyomedikal](FAK_MUHENDISLIK/biyomedikal_mühendisligi) • [Nöro Müh.](FAK_MUHENDISLIK/nöro_mühendisligi) • [Biyosistem](FAK_MUHENDISLIK/biyosistem_muhendisligi) |
-| 💥 **Özel** | [Patlayıcı Müh.](FAK_MUHENDISLIK/patlayıcı_mühendisligi) • [Endüstriyel Tasarım](FAK_MUHENDISLIK/endustriyel_tasarim_muhendisligi) |
-
-</details>
-
-<details>
-<summary><b>🏛️ FAK_MIMARLIK_VE_TASARIM — Tıklayın</b></summary>
-<br>
-
-| Kategori | Bağlantı |
-| :--- | :--- |
-| 🏛️ **Tasarım** | [Tasarım Stüdyoları](FAK_MIMARLIK_VE_TASARIM/tasarim_studyolari) • [Görsel İletişim](FAK_MIMARLIK_VE_TASARIM/gorsel_iletisim_ve_anlatim) |
-| 📚 **Teori** | [Mimarlık Tarihi](FAK_MIMARLIK_VE_TASARIM/mimarlik_tarihi_ve_teorisi) • [Restorasyon](FAK_MIMARLIK_VE_TASARIM/restorasyon_ve_koruma) |
-| 🛠️ **Teknoloji** | [Yapı Teknolojisi](FAK_MIMARLIK_VE_TASARIM/yapi_teknolojisi_ve_malzeme) • [Yapı Fiziği](FAK_MIMARLIK_VE_TASARIM/yapi_fizigi_ve_cevre) |
-| 🌐 **Kentsel** | [Şehircilik ve Peyzaj](FAK_MIMARLIK_VE_TASARIM/sehircilik_ve_peyzaj) |
-| 💻 **Dijital** | [CAD/BIM](FAK_MIMARLIK_VE_TASARIM/bilgisayar_destekli_tasarim) |
-
-</details>
-
-<details>
-<summary><b>🔬 FAK_DOGAN_VE_UYGULAMALI_BILIMLER — Tıklayın</b></summary>
-<br>
-
-| Bilim Dalı | Bağlantı |
-| :--- | :--- |
-| 🔢 **Matematik** | [Matematik](FAK_DOGAN_VE_UYGULAMALI_BILIMLER/matematik) |
-| ⚛️ **Fizik** | [Fizik](FAK_DOGAN_VE_UYGULAMALI_BILIMLER/fizik) |
-| 🧪 **Kimya** | [Kimya](FAK_DOGAN_VE_UYGULAMALI_BILIMLER/kimya) |
-| 🧬 **Biyoloji** | [Biyoloji](FAK_DOGAN_VE_UYGULAMALI_BILIMLER/biyoloji) |
-| 📊 **İstatistik** | [İstatistik](FAK_DOGAN_VE_UYGULAMALI_BILIMLER/istatistik) |
-| 🔭 **Astronomi** | [Astronomi ve Astrofizik](FAK_DOGAN_VE_UYGULAMALI_BILIMLER/astronomi_ve_astrofizik) |
-
-</details>
-
-<details>
-<summary><b>🏥 FAK_TIP_VE_SAGLIK — Tıklayın</b></summary>
-<br>
-
-| Alan | Bağlantı |
-| :--- | :--- |
-| 🩺 **Tıp** | [Tıp Fakültesi](FAK_TIP_VE_SAGLIK/tıp) • [Diş Hekimliği](FAK_TIP_VE_SAGLIK/dis_hekimligi) |
-| 💊 **Eczacılık** | [Eczacılık](FAK_TIP_VE_SAGLIK/eczacilik) |
-| 🧬 **Biyomedikal** | [Moleküler Biyoloji ve Genetik](FAK_TIP_VE_SAGLIK/molekuler_biyoloji_genetik) |
-| 🩺 **Hemşirelik** | [Hemşirelik](FAK_TIP_VE_SAGLIK/hemsirelik) |
-| 🏋️ **Fizyoterapi** | [Fizyoterapi ve Rehabilitasyon](FAK_TIP_VE_SAGLIK/fizyoterapi_ve_rehabilitasyon) |
-| 🥗 **Beslenme** | [Beslenme ve Diyetetik](FAK_TIP_VE_SAGLIK/beslenme_ve_diyetetik) |
-| 🏥 **Yönetim** | [Sağlık Yönetimi](FAK_TIP_VE_SAGLIK/saglik_yonetimi) |
-
-</details>
-
-<details>
-<summary><b>⚖️ FAK_SOSYAL_BILIMLER & 📉 FAK_IKTISAT_VE_ISLETME — Tıklayın</b></summary>
-<br>
-
-| Disiplin | Bağlantı |
-| :--- | :--- |
-| 👥 **Sosyal** | [Sosyoloji](FAK_SOSYAL_BILIMLER/sosyoloji) • [Psikoloji](FAK_SOSYAL_BILIMLER/piskoloji) • [Antropoloji](FAK_SOSYAL_BILIMLER/antropoloji) • [Dilbilim](FAK_SOSYAL_BILIMLER/dilbilim) |
-| 🧠 **Beşeri** | [Felsefe](FAK_SOSYAL_BILIMLER/felsefe) • [Tarih](FAK_SOSYAL_BILIMLER/tarih) • [Coğrafya](FAK_SOSYAL_BILIMLER/cografya) |
-| 🌍 **Siyaset** | [Uluslararası İlişkiler](FAK_SOSYAL_BILIMLER/uluslararasi_iliskiler) • [Kamu Yönetimi](FAK_SOSYAL_BILIMLER/kamu_yonetimi) |
-| 💰 **Ekonomi** | [İktisat](FAK_IKTISAT_VE_ISLETME/iktisat) • [Ekonomi](FAK_IKTISAT_VE_ISLETME/ekonomi) • [Maliye](FAK_IKTISAT_VE_ISLETME/maliye) |
-| 🏢 **İşletme** | [İşletme](FAK_IKTISAT_VE_ISLETME/işletme) • [Finans Müh.](FAK_IKTISAT_VE_ISLETME/finans_mühendisligi) |
-
-</details>
-
-<details>
-<summary><b>⚖️ FAK_HUKUK — Tıklayın</b></summary>
-<br>
-
-| Alan | Bağlantı |
-| :--- | :--- |
-| ⚖️ **Özel Hukuk** | [Medeni Hukuk](FAK_HUKUK/medeni_hukuk) • [Ticaret Hukuku](FAK_HUKUK/ticaret_hukuku) |
-| 🏛️ **Kamu** | [Kamu Hukuku](FAK_HUKUK/kamu_hukuku) |
-| 🌐 **Uluslararası** | [Uluslararası Hukuk](FAK_HUKUK/uluslararasi_hukuk) |
-| 🤖 **Teknoloji & Hukuk** | [Hukuk ve AI Etiği](FAK_HUKUK/hukuk_ve_ai_etigi) |
-
-</details>
-
-<details>
-<summary><b>🚀 FAK_GELECEK_VE_ILERI_TEKNOLOJI — Tıklayın</b></summary>
-<br>
-
-| Alan | Bağlantı |
-| :--- | :--- |
-| ⚛️ **Kuantum** | [Kuantum Müh.](FAK_GELECEK_VE_ILERI_TEKNOLOJI/kuantum_mühendisligi) |
-| 🧬 **Biyo-Nano** | [Biyoteknik & Nanotıp](FAK_GELECEK_VE_ILERI_TEKNOLOJI/biyoteknik_nanotıp) • [Nano Müh.](FAK_GELECEK_VE_ILERI_TEKNOLOJI/nano_mühendislik) • [Nanoteknoloji AI](FAK_GELECEK_VE_ILERI_TEKNOLOJI/nanoteknoloji_ai) |
-| 🕶️ **Sanal Evren** | [Metaverse](FAK_GELECEK_VE_ILERI_TEKNOLOJI/metaverse) • [AR Müh.](FAK_GELECEK_VE_ILERI_TEKNOLOJI/artırılmıs_gerceklik_mühendisligi) |
-| 🧠 **Zihin-Makine** | [BCI](FAK_GELECEK_VE_ILERI_TEKNOLOJI/bci) • [Context Engineering](FAK_GELECEK_VE_ILERI_TEKNOLOJI/contex_engineering) |
-| 🤖 **AI & Üretim** | [3D Print AI](FAK_GELECEK_VE_ILERI_TEKNOLOJI/3d_print_ai) • [Fintek AI](FAK_GELECEK_VE_ILERI_TEKNOLOJI/fintek_ai) |
-
-</details>
-
-<details>
-<summary><b>🎭 FAK_GUZEL_SANATLAR_VE_TASARIM & 📡 FAK_ILETISIM — Tıklayın</b></summary>
-<br>
-
-| Alan | Bağlantı |
-| :--- | :--- |
-| 🎨 **Sanat** | [Güzel Sanatlar](FAK_GUZEL_SANATLAR_VE_TASARIM/guzel_sanatlar) • [Görsel İletişim Tasarımı](FAK_GUZEL_SANATLAR_VE_TASARIM/gorsel_iletisim_tasarimi) |
-| 🎵 **Müzik** | [Müzik](FAK_GUZEL_SANATLAR_VE_TASARIM/muzik) |
-| 🛋️ **Tasarım** | [İç Mimarlık](FAK_GUZEL_SANATLAR_VE_TASARIM/ic_mimarlik_ve_cevre_tasarimi) • [Moda & Tekstil](FAK_GUZEL_SANATLAR_VE_TASARIM/moda_ve_tekstil_tasarimi) |
-| 🎬 **Medya** | [Radyo TV Sinema](FAK_ILETISIM/radyo_tv_sinema) • [Gazetecilik](FAK_ILETISIM/gazetecilik) |
-| 📣 **İletişim** | [Halkla İlişkiler](FAK_ILETISIM/halkla_iliskiler_ve_reklamcilik) • [Yeni Medya](FAK_ILETISIM/yeni_medya_ve_iletisim) |
-
-</details>
-
-<details>
-<summary><b>🌾 FAK_ZIRAAT_ORMANCILIK_VE_CEVRE — Tıklayın</b></summary>
-<br>
-
-| Alan | Bağlantı |
-| :--- | :--- |
-| 🌱 **Tarım** | [Ziraat Müh.](FAK_ZIRAAT_ORMANCILIK_VE_CEVRE/ziraat_mühendisligi) • [Biyosistem Müh.](FAK_MUHENDISLIK/biyosistem_muhendisligi) |
-| 🌲 **Orman** | [Ormancılık](FAK_ZIRAAT_ORMANCILIK_VE_CEVRE/ormancilik) • [Peyzaj Mimarlığı](FAK_ZIRAAT_ORMANCILIK_VE_CEVRE/peyzaj_mimarligi) |
-| 🌊 **Su & Gıda** | [Su Ürünleri](FAK_ZIRAAT_ORMANCILIK_VE_CEVRE/su_urunleri) • [Gıda Müh.](FAK_ZIRAAT_ORMANCILIK_VE_CEVRE/gida_muhendisligi) |
-| ♻️ **Çevre** | [Çevre Müh.](FAK_ZIRAAT_ORMANCILIK_VE_CEVRE/çevre_mühendisligi) • [Jeoloji Müh.](FAK_ZIRAAT_ORMANCILIK_VE_CEVRE/jeoloji_mühendisligi) |
-
-</details>
-
-<details>
-<summary><b>🎓 FAK_EGITIM & 🕌 FAK_ILAHIYAT & 🏃 FAK_SPOR_BILIMLERI & 🏨 FAK_TURIZM_VE_OTELCILIK — Tıklayın</b></summary>
-<br>
-
-| Fakülte | Bölümler |
-| :--- | :--- |
-| 🎓 **Eğitim** | [Sınıf Öğr.](FAK_EGITIM/sinif_ogretmenligi) • [Matematik Öğr.](FAK_EGITIM/matematik_ogretmenligi) • [Fen Öğr.](FAK_EGITIM/fen_bilimleri_ogretmenligi) • [PDR](FAK_EGITIM/pdr) • [BÖTE](FAK_EGITIM/bilgisayar_ve_ogretim_teknolojileri) • [Eğitim Yön.](FAK_EGITIM/egitim_yonetimi) |
-| 🕌 **İlahiyat** | [Temel İslam Bilimleri](FAK_ILAHIYAT/temel_islam_bilimleri) • [İslam Tarihi](FAK_ILAHIYAT/islam_tarihi_ve_sanatlari) • [Din Kültürü Öğr.](FAK_ILAHIYAT/din_kulturu_ogretmenligi) |
-| 🏃 **Spor** | [Beden Eğitimi Öğr.](FAK_SPOR_BILIMLERI/beden_egitimi_ve_spor_ogretmenligi) • [Antrenörlük](FAK_SPOR_BILIMLERI/antrenorluk_egitimi) • [Spor Yön.](FAK_SPOR_BILIMLERI/spor_yoneticiligi) • [Rekreasyon](FAK_SPOR_BILIMLERI/rekreasyon) |
-| 🏨 **Turizm** | [Turizm İşl.](FAK_TURIZM_VE_OTELCILIK/turizm_isletmeciligi) • [Gastronomi](FAK_TURIZM_VE_OTELCILIK/gastronomi_ve_mutfak_sanatlari) • [Konaklama](FAK_TURIZM_VE_OTELCILIK/konaklama_isletmeciligi) |
-
-</details>
+| Bölüm | Bölüm | Bölüm |
+|:---|:---|:---|
+| [Adli Bilisim Muhendisligi](adli_bilisim_muhendisligi) | [Antrenorluk Egitimi](antrenorluk_egitimi) | [Antropoloji](antropoloji) |
+| [Astronomi Ve Uzay Bilimleri](astronomi_ve_uzay_bilimleri) | [Beden Egitimi Ve Spor Ogretmenligi](beden_egitimi_ve_spor_ogretmenligi) | [Beslenme Ve Diyetetik](beslenme_ve_diyetetik) |
+| [Bilgisayar Mühendisligi](bilgisayar_mühendisligi) | [Bilgisayar Ve Ogretim Teknolojileri Egitimi](bilgisayar_ve_ogretim_teknolojileri_egitimi) | [Bilisim Sistemleri Muhendisligi](bilisim_sistemleri_muhendisligi) |
+| [Biyoloji](biyoloji) | [Biyomedikal Mühendisligi](biyomedikal_mühendisligi) | [Biyosistem Muhendisligi](biyosistem_muhendisligi) |
+| [Cevre Muhendisligi](cevre_muhendisligi) | [Cografya](cografya) | [Dilbilim](dilbilim) |
+| [Din Kulturu Ve Ahlak Bilgisi Ogretmenligi](din_kulturu_ve_ahlak_bilgisi_ogretmenligi) | [Dis Hekimligi](dis_hekimligi) | [Eczacilik](eczacilik) |
+| [Ekonomi](ekonomi) | [Elektrik Elektronik Muhendisligi](elektrik_elektronik_muhendisligi) | [Elektronik Ve Haberlesme Muhendisligi](elektronik_ve_haberlesme_muhendisligi) |
+| [Endustri Muhendisligi](endustri_muhendisligi) | [Endustriyel Tasarim Muhendisligi](endustriyel_tasarim_muhendisligi) | [Enerji Sistemleri Muhendisligi](enerji_sistemleri_muhendisligi) |
+| [Felsefe](felsefe) | [Fen Bilgisi Ogretmenligi](fen_bilgisi_ogretmenligi) | [Fizik](fizik) |
+| [Fizyoterapi Ve Rehabilitasyon](fizyoterapi_ve_rehabilitasyon) | [Gastronomi Ve Mutfak Sanatlari](gastronomi_ve_mutfak_sanatlari) | [Gazetecilik](gazetecilik) |
+| [Gida Muhendisligi](gida_muhendisligi) | [Gorsel Iletisim Tasarimi](gorsel_iletisim_tasarimi) | [Halkla Iliskiler Ve Reklamcilik](halkla_iliskiler_ve_reklamcilik) |
+| [Harita Muhendisligi](harita_muhendisligi) | [Havacilik Ve Uzay Muhendisligi](havacilik_ve_uzay_muhendisligi) | [Hemsirelik](hemsirelik) |
+| [Hukuk](hukuk) | [Ic Mimarlik Ve Cevre Tasarimi](ic_mimarlik_ve_cevre_tasarimi) | [Iktisat](iktisat) |
+| [Ilahiyat](ilahiyat) | [Ilkogretim Matematik Ogretmenligi](ilkogretim_matematik_ogretmenligi) | [Imalat Muhendisligi](imalat_muhendisligi) |
+| [Insaat Muhendisligi](insaat_muhendisligi) | [Istatistik](istatistik) | [Işletme](işletme) |
+| [Jeoloji Muhendisligi](jeoloji_muhendisligi) | [Kimya](kimya) | [Kimya Muhendisligi](kimya_muhendisligi) |
+| [Konaklama Isletmeciligi](konaklama_isletmeciligi) | [Kontrol Ve Otomasyon Muhendisligi](kontrol_ve_otomasyon_muhendisligi) | [Kultur Varliklarini Koruma Ve Onarim](kultur_varliklarini_koruma_ve_onarim) |
+| [Maden Muhendisligi](maden_muhendisligi) | [Makine Muhendisligi](makine_muhendisligi) | [Maliye](maliye) |
+| [Matematik](matematik) | [Mekatronik Muhendisligi](mekatronik_muhendisligi) | [Metalurji Ve Malzeme Muhendisligi](metalurji_ve_malzeme_muhendisligi) |
+| [Mimarlik](mimarlik) | [Moda Ve Tekstil Tasarimi](moda_ve_tekstil_tasarimi) | [Molekuler Biyoloji Ve Genetik](molekuler_biyoloji_ve_genetik) |
+| [Muzik](muzik) | [Nanoteknoloji Muhendisligi](nanoteknoloji_muhendisligi) | [Orman Muhendisligi](orman_muhendisligi) |
+| [Peyzaj Mimarligi](peyzaj_mimarligi) | [Psikoloji](psikoloji) | [Radyo Televizyon Ve Sinema](radyo_televizyon_ve_sinema) |
+| [Rehberlik Ve Psikolojik Danismanlik](rehberlik_ve_psikolojik_danismanlik) | [Rekreasyon](rekreasyon) | [Saglik Yonetimi](saglik_yonetimi) |
+| [Sehir Ve Bolge Planlama](sehir_ve_bolge_planlama) | [Sinif Ogretmenligi](sinif_ogretmenligi) | [Siyaset Bilimi Ve Kamu Yonetimi](siyaset_bilimi_ve_kamu_yonetimi) |
+| [Sosyoloji](sosyoloji) | [Spor Yoneticiligi](spor_yoneticiligi) | [Su Urunleri Muhendisligi](su_urunleri_muhendisligi) |
+| [Tarih](tarih) | [Tekstil Muhendisligi](tekstil_muhendisligi) | [Tip](tip) |
+| [Turizm Isletmeciligi](turizm_isletmeciligi) | [Uluslararasi Iliskiler](uluslararasi_iliskiler) | [Yapay Zeka Ve Veri Muhendisligi](yapay_zeka_ve_veri_muhendisligi) |
+| [Yazilim Muhendisligi](yazilim_muhendisligi) | [Yeni Medya Ve Iletisim](yeni_medya_ve_iletisim) | [Ziraat Muhendisligi](ziraat_muhendisligi) |
 
 ---
 
-## 🌳 Detaylı Dizin Ağacı
+## 🔍 ÖZEL ARAŞTIRMA VE İLERİ UZMANLIK ALANLARI
 
-<details>
-<summary><b>📂 Tüm klasör yapısını görüntülemek için tıklayın</b></summary>
-<br>
+Doğrudan lisans bölümü formatında olmayan ancak spesifik teknoloji alanları, lisansüstü programlar veya araştırma başlıkları (örneğin BCI, vb.):
 
-```text
-university-courses/
-├── FAK_MUHENDISLIK/          (28 bölüm)
-├── FAK_MIMARLIK_VE_TASARIM/  (8 bölüm)
-├── FAK_DOGAN_VE_UYGULAMALI_BILIMLER/ (6 bölüm)
-├── FAK_TIP_VE_SAGLIK/        (8 bölüm)
-├── FAK_SOSYAL_BILIMLER/      (9 bölüm)
-├── FAK_IKTISAT_VE_ISLETME/   (5 bölüm)
-├── FAK_HUKUK/                (5 bölüm)
-├── FAK_GELECEK_VE_ILERI_TEKNOLOJI/ (10 bölüm)
-├── FAK_GUZEL_SANATLAR_VE_TASARIM/  (5 bölüm)
-├── FAK_ILETISIM/             (4 bölüm)
-├── FAK_ZIRAAT_ORMANCILIK_VE_CEVRE/ (7 bölüm)
-├── FAK_EGITIM/               (6 bölüm)
-├── FAK_ILAHIYAT/             (3 bölüm)
-├── FAK_SPOR_BILIMLERI/       (4 bölüm)
-├── FAK_TURIZM_VE_OTELCILIK/  (3 bölüm)
-├── assets/
-├── scripts/
-├── templates/
-└── readme.md
-```
-
-**Toplam: 15 Fakülte | 100+ Bölüm**
-
-</details>
+| Özel Alan | Özel Alan | Özel Alan |
+|:---|:---|:---|
+| [3D Print Ai](ozel_arastirma_alanlari/3d_print_ai) | [Akustik Muhendisligi](ozel_arastirma_alanlari/akustik_muhendisligi) | [Artırılmıs Gerceklik Muhendisligi](ozel_arastirma_alanlari/artırılmıs_gerceklik_muhendisligi) |
+| [Bci](ozel_arastirma_alanlari/bci) | [Biyoteknik Nanotıp](ozel_arastirma_alanlari/biyoteknik_nanotıp) | [Contex Engineering](ozel_arastirma_alanlari/contex_engineering) |
+| [Egitim Yonetimi](ozel_arastirma_alanlari/egitim_yonetimi) | [Finans Muhendisligi](ozel_arastirma_alanlari/finans_muhendisligi) | [Fintek Ai](ozel_arastirma_alanlari/fintek_ai) |
+| [Guzel Sanatlar](ozel_arastirma_alanlari/guzel_sanatlar) | [Hukuk Ve Ai Etigi](ozel_arastirma_alanlari/hukuk_ve_ai_etigi) | [Kuantum Muhendisligi](ozel_arastirma_alanlari/kuantum_muhendisligi) |
+| [Metaverse](ozel_arastirma_alanlari/metaverse) | [Mühendislik Ortak](ozel_arastirma_alanlari/mühendislik_ortak) | [Nanoteknoloji Ai](ozel_arastirma_alanlari/nanoteknoloji_ai) |
+| [Nöro Muhendisligi](ozel_arastirma_alanlari/nöro_muhendisligi) | [Optik Muhendisligi](ozel_arastirma_alanlari/optik_muhendisligi) | [Patlayıcı Muhendisligi](ozel_arastirma_alanlari/patlayıcı_muhendisligi) |
 
 ---
 
