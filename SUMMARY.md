@@ -16,7 +16,6 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur.
 | Arap Dili Ve Edebiyati | [arap_dili_ve_edebiyati](arap_dili_ve_edebiyati/) |
 | Arkeoloji | [arkeoloji](arkeoloji/) |
 | Astronomi Ve Uzay Bilimleri | [astronomi_ve_uzay_bilimleri](astronomi_ve_uzay_bilimleri/) |
-| Basin Yayin | [basin_yayin](basin_yayin/) |
 | Beden Egitimi Ve Spor Bilimleri | [beden_egitimi_ve_spor_bilimleri](beden_egitimi_ve_spor_bilimleri/) |
 | Beden Egitimi Ve Spor Ogretmenligi | [beden_egitimi_ve_spor_ogretmenligi](beden_egitimi_ve_spor_ogretmenligi/) |
 | Beslenme Ve Diyetetik | [beslenme_ve_diyetetik](beslenme_ve_diyetetik/) |
@@ -27,14 +26,12 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur.
 | Biyokimya Muhendisligi | [biyokimya_muhendisligi](biyokimya_muhendisligi/) |
 | Biyoloji | [biyoloji](biyoloji/) |
 | Biyomedikal Muhendisligi | [biyomedikal_muhendisligi](biyomedikal_muhendisligi/) |
-| Biyomuhendislik | [biyomuhendislik](biyomuhendislik/) |
 | Biyosistem Muhendisligi | [biyosistem_muhendisligi](biyosistem_muhendisligi/) |
 | Calisma Ekonomisi Ve Endustri Iliskileri | [calisma_ekonomisi_ve_endustri_iliskileri](calisma_ekonomisi_ve_endustri_iliskileri/) |
 | Cevre Muhendisligi | [cevre_muhendisligi](cevre_muhendisligi/) |
 | Cizgi Film Ve Animasyon | [cizgi_film_ve_animasyon](cizgi_film_ve_animasyon/) |
 | Cocuk Gelisimi | [cocuk_gelisimi](cocuk_gelisimi/) |
 | Cografya | [cografya](cografya/) |
-| Cografya Bolumu | [cografya_bolumu](cografya_bolumu/) |
 | Deniz Ulastirma Isletme Muhendisligi | [deniz_ulastirma_isletme_muhendisligi](deniz_ulastirma_isletme_muhendisligi/) |
 | Dil Ve Konusma Terapisi | [dil_ve_konusma_terapisi](dil_ve_konusma_terapisi/) |
 | Dilbilim | [dilbilim](dilbilim/) |
@@ -58,7 +55,6 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur.
 | Fizik | [fizik](fizik/) |
 | Fizik Muhendisligi | [fizik_muhendisligi](fizik_muhendisligi/) |
 | Fizyoterapi Ve Rehabilitasyon | [fizyoterapi_ve_rehabilitasyon](fizyoterapi_ve_rehabilitasyon/) |
-| Fotografcilik Ve Video | [fotografcilik_ve_video](fotografcilik_ve_video/) |
 | Fransiz Dili Ve Edebiyati | [fransiz_dili_ve_edebiyati](fransiz_dili_ve_edebiyati/) |
 | Gastronomi Ve Mutfak Sanatlari | [gastronomi_ve_mutfak_sanatlari](gastronomi_ve_mutfak_sanatlari/) |
 | Gazetecilik | [gazetecilik](gazetecilik/) |
@@ -93,7 +89,6 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur.
 | Jeoloji | [jeoloji](jeoloji/) |
 | Jeoloji Muhendisligi | [jeoloji_muhendisligi](jeoloji_muhendisligi/) |
 | Kimya | [kimya](kimya/) |
-| Kimya Bolumu | [kimya_bolumu](kimya_bolumu/) |
 | Kimya Muhendisligi | [kimya_muhendisligi](kimya_muhendisligi/) |
 | Konaklama Isletmeciligi | [konaklama_isletmeciligi](konaklama_isletmeciligi/) |
 | Kontrol Ve Otomasyon Muhendisligi | [kontrol_ve_otomasyon_muhendisligi](kontrol_ve_otomasyon_muhendisligi/) |
@@ -108,7 +103,6 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur.
 | Mekatronik Muhendisligi | [mekatronik_muhendisligi](mekatronik_muhendisligi/) |
 | Metalurji Ve Malzeme Muhendisligi | [metalurji_ve_malzeme_muhendisligi](metalurji_ve_malzeme_muhendisligi/) |
 | Mimarlik | [mimarlik](mimarlik/) |
-| Moda Ve Tekstil Tasarimi | [moda_ve_tekstil_tasarimi](moda_ve_tekstil_tasarimi/) |
 | Molekuler Biyoloji Ve Genetik | [molekuler_biyoloji_ve_genetik](molekuler_biyoloji_ve_genetik/) |
 | Muhasebe Ve Finans Yonetimi | [muhasebe_ve_finans_yonetimi](muhasebe_ve_finans_yonetimi/) |
 | Mutercim Ve Tercumanlik | [mutercim_ve_tercumanlik](mutercim_ve_tercumanlik/) |
@@ -136,7 +130,6 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur.
 | Seramik Ve Cam Tasarimi | [seramik_ve_cam_tasarimi](seramik_ve_cam_tasarimi/) |
 | Siber Guvenlik Muhendisligi | [siber_guvenlik_muhendisligi](siber_guvenlik_muhendisligi/) |
 | Sigortacilik Ve Risk Yonetimi | [sigortacilik_ve_risk_yonetimi](sigortacilik_ve_risk_yonetimi/) |
-| Sinema Ve Televizyon | [sinema_ve_televizyon](sinema_ve_televizyon/) |
 | Sinif Ogretmenligi | [sinif_ogretmenligi](sinif_ogretmenligi/) |
 | Siyaset Bilimi Ve Kamu Yonetimi | [siyaset_bilimi_ve_kamu_yonetimi](siyaset_bilimi_ve_kamu_yonetimi/) |
 | Sosyal Bilgiler Ogretmenligi | [sosyal_bilgiler_ogretmenligi](sosyal_bilgiler_ogretmenligi/) |
@@ -181,6 +174,7 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur.
 | Egitim Yonetimi | [egitim_yonetimi](ozel_arastirma_alanlari/egitim_yonetimi/) |
 | Finans Muhendisligi | [finans_muhendisligi](ozel_arastirma_alanlari/finans_muhendisligi/) |
 | Fintek Ai | [fintek_ai](ozel_arastirma_alanlari/fintek_ai/) |
+| Fotografcilik Ve Video | [fotografcilik_ve_video](ozel_arastirma_alanlari/fotografcilik_ve_video/) |
 | Guzel Sanatlar | [guzel_sanatlar](ozel_arastirma_alanlari/guzel_sanatlar/) |
 | Hukuk Ve Ai Etigi | [hukuk_ve_ai_etigi](ozel_arastirma_alanlari/hukuk_ve_ai_etigi/) |
 | Kuantum Muhendisligi | [kuantum_muhendisligi](ozel_arastirma_alanlari/kuantum_muhendisligi/) |
