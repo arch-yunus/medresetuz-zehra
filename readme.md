@@ -93,34 +93,43 @@
 
 ## 🎓 ÖĞRETMENLİK
 
-[`ogretmenlik/`](ogretmenlik/) altında **13 bölüm**:
+[`ogretmenlik/`](ogretmenlik/) altında **14 bölüm**:
 
 | Bölüm | Bölüm | Bölüm |
 |:---|:---|:---|
-| [Beden Egitimi Ve Spor Ogretmenligi](ogretmenlik/beden_egitimi_ve_spor_ogretmenligi) | [Din Kulturu Ve Ahlak Bilgisi Ogretmenligi](ogretmenlik/din_kulturu_ve_ahlak_bilgisi_ogretmenligi) | [Fen Bilgisi Ogretmenligi](ogretmenlik/fen_bilgisi_ogretmenligi) |
-| [Ilkogretim Matematik Ogretmenligi](ogretmenlik/ilkogretim_matematik_ogretmenligi) | [Ingilizce Ogretmenligi](ogretmenlik/ingilizce_ogretmenligi) | [Muzik Ogretmenligi](ogretmenlik/muzik_ogretmenligi) |
-| [Okul Oncesi Ogretmenligi](ogretmenlik/okul_oncesi_ogretmenligi) | [Ozel Egitim Ogretmenligi](ogretmenlik/ozel_egitim_ogretmenligi) | [Resim Is Ogretmenligi](ogretmenlik/resim_is_ogretmenligi) |
-| [Saglik Bilgisi Ogretmenligi](ogretmenlik/saglik_bilgisi_ogretmenligi) | [Sinif Ogretmenligi](ogretmenlik/sinif_ogretmenligi) | [Sosyal Bilgiler Ogretmenligi](ogretmenlik/sosyal_bilgiler_ogretmenligi) |
-| [Turkce Ogretmenligi](ogretmenlik/turkce_ogretmenligi) |  |  |
+| [Beden Egitimi Ve Spor Ogretmenligi](ogretmenlik/beden_egitimi_ve_spor_ogretmenligi) | [Bilgisayar Ve Ogretim Teknolojileri Egitimi](ogretmenlik/bilgisayar_ve_ogretim_teknolojileri_egitimi) | [Din Kulturu Ve Ahlak Bilgisi Ogretmenligi](ogretmenlik/din_kulturu_ve_ahlak_bilgisi_ogretmenligi) |
+| [Fen Bilgisi Ogretmenligi](ogretmenlik/fen_bilgisi_ogretmenligi) | [Ilkogretim Matematik Ogretmenligi](ogretmenlik/ilkogretim_matematik_ogretmenligi) | [Ingilizce Ogretmenligi](ogretmenlik/ingilizce_ogretmenligi) |
+| [Muzik Ogretmenligi](ogretmenlik/muzik_ogretmenligi) | [Okul Oncesi Ogretmenligi](ogretmenlik/okul_oncesi_ogretmenligi) | [Ozel Egitim Ogretmenligi](ogretmenlik/ozel_egitim_ogretmenligi) |
+| [Resim Is Ogretmenligi](ogretmenlik/resim_is_ogretmenligi) | [Saglik Bilgisi Ogretmenligi](ogretmenlik/saglik_bilgisi_ogretmenligi) | [Sinif Ogretmenligi](ogretmenlik/sinif_ogretmenligi) |
+| [Sosyal Bilgiler Ogretmenligi](ogretmenlik/sosyal_bilgiler_ogretmenligi) | [Turkce Ogretmenligi](ogretmenlik/turkce_ogretmenligi) |  |
 
 ---
 
-## 🏛️ DİĞER BÖLÜMLER
+## 🏛️ MİMARLIK ve TASARIM
+
+[`mimarlik_ve_tasarim/`](mimarlik_ve_tasarim/) altında **14 bölüm**:
+
+| Bölüm | Bölüm | Bölüm |
+|:---|:---|:---|
+| [Cizgi Film Ve Animasyon](mimarlik_ve_tasarim/cizgi_film_ve_animasyon) | [Endustriyel Tasarim](mimarlik_ve_tasarim/endustriyel_tasarim) | [Gorsel Iletisim Tasarimi](mimarlik_ve_tasarim/gorsel_iletisim_tasarimi) |
+| [Grafik Tasarimi](mimarlik_ve_tasarim/grafik_tasarimi) | [Ic Mimarlik Ve Cevre Tasarimi](mimarlik_ve_tasarim/ic_mimarlik_ve_cevre_tasarimi) | [Kultur Varliklarini Koruma Ve Onarim](mimarlik_ve_tasarim/kultur_varliklarini_koruma_ve_onarim) |
+| [Kuyumculuk Ve Mucevher Tasarimi](mimarlik_ve_tasarim/kuyumculuk_ve_mucevher_tasarimi) | [Mimarlik](mimarlik_ve_tasarim/mimarlik) | [Muzik](mimarlik_ve_tasarim/muzik) |
+| [Peyzaj Mimarligi](mimarlik_ve_tasarim/peyzaj_mimarligi) | [Sehir Ve Bolge Planlama](mimarlik_ve_tasarim/sehir_ve_bolge_planlama) | [Seramik Ve Cam Tasarimi](mimarlik_ve_tasarim/seramik_ve_cam_tasarimi) |
+| [Tekstil Ve Moda Tasarimi](mimarlik_ve_tasarim/tekstil_ve_moda_tasarimi) | [Tiyatro Oyunculuk](mimarlik_ve_tasarim/tiyatro_oyunculuk) |  |
+
+---
+
+## 📚 DİĞER BÖLÜMLER
 
 Yukarıdaki gruplara girmeyen bölümler:
 
 | Bölüm | Bölüm | Bölüm |
 |:---|:---|:---|
-| [Alman Dili Ve Edebiyati](alman_dili_ve_edebiyati) | [Arap Dili Ve Edebiyati](arap_dili_ve_edebiyati) | [Bilgisayar Ve Ogretim Teknolojileri Egitimi](bilgisayar_ve_ogretim_teknolojileri_egitimi) |
-| [Cizgi Film Ve Animasyon](cizgi_film_ve_animasyon) | [Endustriyel Tasarim](endustriyel_tasarim) | [Fransiz Dili Ve Edebiyati](fransiz_dili_ve_edebiyati) |
-| [Gastronomi Ve Mutfak Sanatlari](gastronomi_ve_mutfak_sanatlari) | [Gazetecilik](gazetecilik) | [Gorsel Iletisim Tasarimi](gorsel_iletisim_tasarimi) |
-| [Grafik Tasarimi](grafik_tasarimi) | [Halkla Iliskiler Ve Reklamcilik](halkla_iliskiler_ve_reklamcilik) | [Hukuk](hukuk) |
-| [Ic Mimarlik Ve Cevre Tasarimi](ic_mimarlik_ve_cevre_tasarimi) | [Ilahiyat](ilahiyat) | [Ingiliz Dili Ve Edebiyati](ingiliz_dili_ve_edebiyati) |
-| [Konaklama Isletmeciligi](konaklama_isletmeciligi) | [Kultur Varliklarini Koruma Ve Onarim](kultur_varliklarini_koruma_ve_onarim) | [Kuyumculuk Ve Mucevher Tasarimi](kuyumculuk_ve_mucevher_tasarimi) |
-| [Mimarlik](mimarlik) | [Mutercim Ve Tercumanlik](mutercim_ve_tercumanlik) | [Muzik](muzik) |
-| [Peyzaj Mimarligi](peyzaj_mimarligi) | [Radyo Televizyon Ve Sinema](radyo_televizyon_ve_sinema) | [Rehberlik Ve Psikolojik Danismanlik](rehberlik_ve_psikolojik_danismanlik) |
-| [Rus Dili Ve Edebiyati](rus_dili_ve_edebiyati) | [Sehir Ve Bolge Planlama](sehir_ve_bolge_planlama) | [Seramik Ve Cam Tasarimi](seramik_ve_cam_tasarimi) |
-| [Tekstil Ve Moda Tasarimi](tekstil_ve_moda_tasarimi) | [Tiyatro Oyunculuk](tiyatro_oyunculuk) | [Turizm Isletmeciligi](turizm_isletmeciligi) |
+| [Alman Dili Ve Edebiyati](alman_dili_ve_edebiyati) | [Arap Dili Ve Edebiyati](arap_dili_ve_edebiyati) | [Fransiz Dili Ve Edebiyati](fransiz_dili_ve_edebiyati) |
+| [Gastronomi Ve Mutfak Sanatlari](gastronomi_ve_mutfak_sanatlari) | [Gazetecilik](gazetecilik) | [Halkla Iliskiler Ve Reklamcilik](halkla_iliskiler_ve_reklamcilik) |
+| [Hukuk](hukuk) | [Ilahiyat](ilahiyat) | [Ingiliz Dili Ve Edebiyati](ingiliz_dili_ve_edebiyati) |
+| [Konaklama Isletmeciligi](konaklama_isletmeciligi) | [Mutercim Ve Tercumanlik](mutercim_ve_tercumanlik) | [Radyo Televizyon Ve Sinema](radyo_televizyon_ve_sinema) |
+| [Rehberlik Ve Psikolojik Danismanlik](rehberlik_ve_psikolojik_danismanlik) | [Rus Dili Ve Edebiyati](rus_dili_ve_edebiyati) | [Turizm Isletmeciligi](turizm_isletmeciligi) |
 | [Turizm Rehberligi](turizm_rehberligi) | [Turk Dili Ve Edebiyati](turk_dili_ve_edebiyati) | [Yeni Medya Ve Iletisim](yeni_medya_ve_iletisim) |
 | [Yiyecek Icecek Isletmeciligi](yiyecek_icecek_isletmeciligi) |  |  |
 

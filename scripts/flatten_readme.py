@@ -5,7 +5,7 @@ root_dir = r"g:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\github repolarım\\
 SPECIAL_GROUPS = {
     'meta_muhendislik', 'ogretmenlik', 'saglik',
     'temel_bilimler', 'sosyal_ve_beseri_bilimler',
-    'ozel_arastirma_alanlari'
+    'mimarlik_ve_tasarim', 'ozel_arastirma_alanlari'
 }
 IGNORED = {'.git', '.github', '.vs', 'assets', 'genel', 'scripts', 'templates'} | SPECIAL_GROUPS
 
@@ -13,6 +13,7 @@ def get_subdirs(path):
     if not os.path.exists(path):
         return []
     return sorted([d for d in os.listdir(path) if os.path.isdir(os.path.join(path, d))])
+
 
 def make_table(items, link_prefix=''):
     rows = []
@@ -39,6 +40,7 @@ teach_dirs   = get_subdirs(os.path.join(root_dir, 'ogretmenlik'))
 saglik_dirs  = get_subdirs(os.path.join(root_dir, 'saglik'))
 temel_dirs   = get_subdirs(os.path.join(root_dir, 'temel_bilimler'))
 sosyal_dirs  = get_subdirs(os.path.join(root_dir, 'sosyal_ve_beseri_bilimler'))
+arch_dirs    = get_subdirs(os.path.join(root_dir, 'mimarlik_ve_tasarim'))
 special_dirs = get_subdirs(os.path.join(root_dir, 'ozel_arastirma_alanlari'))
 other_dirs   = sorted([d for d in os.listdir(root_dir)
                        if os.path.isdir(os.path.join(root_dir, d)) and d not in IGNORED])
@@ -68,6 +70,7 @@ if start_idx != -1 and end_idx != -1:
         ("🏥", "SAĞLIK BİLİMLERİ", "saglik", saglik_dirs),
         ("👥", "SOSYAL ve BEŞERİ BİLİMLER", "sosyal_ve_beseri_bilimler", sosyal_dirs),
         ("🎓", "ÖĞRETMENLİK", "ogretmenlik", teach_dirs),
+        ("🏛️", "MİMARLIK ve TASARIM", "mimarlik_ve_tasarim", arch_dirs),
     ]
 
     for emoji, title, folder, dirs in sections:
@@ -77,7 +80,7 @@ if start_idx != -1 and end_idx != -1:
         m.append("\n---\n\n")
 
     if other_dirs:
-        m.append("## 🏛️ DİĞER BÖLÜMLER\n\n")
+        m.append("## 📚 DİĞER BÖLÜMLER\n\n")
         m.append("Yukarıdaki gruplara girmeyen bölümler:\n\n")
         m += make_table(other_dirs)
         m.append("\n---\n\n")
@@ -92,6 +95,6 @@ if start_idx != -1 and end_idx != -1:
 
     print(f"README updated:")
     print(f"  Mühendislik: {len(eng_dirs)}, Temel: {len(temel_dirs)}, Sağlık: {len(saglik_dirs)}")
-    print(f"  Sosyal: {len(sosyal_dirs)}, Öğretmenlik: {len(teach_dirs)}, Diğer: {len(other_dirs)}, Özel: {len(special_dirs)}")
+    print(f"  Sosyal: {len(sosyal_dirs)}, Öğretmenlik: {len(teach_dirs)}, Mimarlık+Tasarım: {len(arch_dirs)}, Diğer: {len(other_dirs)}, Özel: {len(special_dirs)}")
 else:
     print("Section markers not found.")
