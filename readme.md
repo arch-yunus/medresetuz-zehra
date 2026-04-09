@@ -3,42 +3,56 @@
 ![AOS Hero Banner](assets/aos_hero_banner.png)
 
 # 🏛️ AKADEMİK İŞLETİM SİSTEMİ (AOS)
-### *Global Bilgi Ontolojisi ve Entelektüel Sermaye Altyapısı* 🌐💎🚀
+### *Global Bilgi Ontolojisi ve Meta-Stratejik Sermaye Altyapısı* 🌐💎🚀
 
 [![Kurucu](https://img.shields.io/badge/KURUCU-Bahattin%20Yunus-black?style=for-the-badge&logo=github&logoColor=gold)](https://github.com/bahattinyunus)
-[![Versiyon](https://img.shields.io/badge/VERSİYON-v2025.Ultimate-B81D24?style=for-the-badge&logo=target)](./)
+[![Versiyon](https://img.shields.io/badge/VERSİYON-v2025.Master-B81D24?style=for-the-badge&logo=target)](./)
 [![Kapsam](https://img.shields.io/badge/KAPSAM-385_Bölüm-0078D4?style=for-the-badge&logo=rocket)](./SUMMARY.md)
-[![Ecosystem](https://img.shields.io/badge/ECOSYSTEM-Hybrid_YÖK_MoE-FFD700?style=for-the-badge&logo=openai&logoColor=black)](./)
+[![Mindset](https://img.shields.io/badge/MINDSET-Multidisciplinary-FFD700?style=for-the-badge&logo=openai&logoColor=black)](./)
 
 ---
 
-## 🏛️ Vizyon ve Metodoloji
-**Academic Operating System (AOS)**, modern dünyanın parçalı bilgi yapısına karşı geliştirilmiş, mültidisipliner ustalığı hedefleyen bir "Entelektüel İşletim Sistemi"dir. Klasik akademik dökümantasyonun ötesine geçerek, bireyin yüksek kaldıraçlı bir uzman haline gelmesi için gereken tüm bilgi katmanlarını tek bir yapıda birleştirir.
+## 📜 AOS Manifestosu: Bilgi ve Karakterin Sinerjisi
 
-> [!IMPORTANT]
-> **AOS bir arşiv değil, yaşayan bir ontolojidir.** 385+ alan üzerinde kurulan bu yapı; Türkiye'nin akademik derinliğiyle Çin'in (MoE) stratejik teknoloji vizyonunu (İHA, Yarıliletken, BCI) tek bir potada eritir.
+> **"Bilgi, ancak ehemmiyetli bir karakter ve berrak bir strateji ile birleştiğinde dünyayı değiştirir."**
+
+AOS, modern insanın parçalı ve kaotik bilgi yığınına karşı bir "Düşünsel Kale" (Intellectual Fortress) inşa etme girişimidir. Bu sistem; sadece mühendislik veya tıp değil, insanın kendisini ve dünyayı yönetmesi için gereken tüm disiplinleri birleştiren bir **Hayat Mimarisidir.**
 
 ---
 
 </div>
 
-## ⚙️ Çelik Çerçeve: Ultimate 7-Tier Mimari
-Sistemdeki her bir branş, rastgele notlar yerine **7 katmanlı elit bir hiyerarşi** üzerine inşa edilmiştir. Bu yapı, bir konuyu "sıfırdan" ele alıp "endüstriyel uzmanlığa" taşıyan tek standarttır:
+## 🧠 Felsefi Temeller ve Rehber İlkeler
 
--   📂 **`00 — Hazırlık & Dil`**: Akademik oryantasyon ve küresel dil yeterliliği.
--   📂 **`01 — Temel Bilimler`**: Alanın üzerine inşa edildiği teorik ve sayısal temel.
--   📂 **`02 — Alan Dersleri`**: Bölümün çekirdeğini oluşturan zorunlu teknik birikim.
--   📂 **`03 — İleri Uygulama`**: Seçmeli uzmanlıklar ve derinlemesine pratik çalışmalar.
--   📂 **`04 — Araştırma & Proje`**: Bitirme projeleri, tezler ve orijinal akademik çıktılar.
--   📂 **`05 — Lisansüstü Akış`**: Yüksek lisans ve doktora seviyesinde akademik kariyer yolu.
--   📂 **`06 — Endüstriyel Standartlar`**: Küresel sertifikalar ve mesleki yeterlilik zirvesi.
+AOS ekosistemi, tarihin derinliklerinden gelen bu kadim düsturların üzerine bina edilmiştir:
+
+| ✍️ Söz | 👤 Kaynak | 🏛️ AOS Prensibi |
+| :--- | :--- | :--- |
+| **"Her şeyi öğrenin, sonra kendi yolunuzu çizin."** | *Leonardo da Vinci* | **Mültidisipliner Bütünlük** |
+| **"Stratejisi olmayan taktik, yenilgiden önceki gürültüdür."** | *Sun Tzu* | **Yüksek Kaldıraçlı Planlama** |
+| **"Engelin kendisi yoldur."** | *Marcus Aurelius* | **Stoacı Dayanıklılık** |
+| **"Geleceği tahmin etmenin en iyi yolu, onu icat etmektir."** | *Alan Kay / Tesla* | **Aktif Mühendislik Vizyonu** |
+| **"Okumayan için hiçbir kitap yazılmamıştır, dinlemeyen için hiçbir söz söylenmemiştir."** | *Aliya İzzetbegoviç* | **Sürekli Arayış ve İlim** |
 
 ---
 
+<div align="center">
+
+## ⚙️ Çelik Çerçeve: Ultimate 7-Tier Mimari
+*"Sistem, kaosun en büyük düşmanıdır."*
+
+Sistemdeki her bir branş, rastgele notlar yerine **7 katmanlı elit bir hiyerarşi** üzerine inşa edilmiştir. Bu yapı, bir konuyu "sıfırdan" ele alıp "endüstriyel uzmanlığa" taşıyan tek standarttır:
+
+**`00`** Hazırlık **`01`** Teori **`02`** Çekirdek **`03`** Uzmanlık **`04`** Üretim **`05`** Akademi **`06`** Standart
+
+---
+
+</div>
+
 ## 💎 Neden Bu Sistem?
-1.  **Mültidisipliner Bağlantılar:** 3D Print AI'dan Stoacılığa, Kuantum Mühendisliğinden Çay Bilimine kadar birbirine bağlı 385 alan.
-2.  **Stratejik Odak (Silk Road Edition):** Çin'in küresel liderliğini hedeflediği çipler, düşük irtifa teknolojileri ve geleneksel tıp branşlarının tam entegrasyonu.
-3.  **Meta-Yetkinlikler:** Sadece teknik bilgi değil; "Monk Mode", "Zaman Yönetimi" ve "Hızlı Öğrenme" gibi bireyi sistemin üzerinde tutan meta-beceriler.
+-   **Mültidisipliner Bağlantılar:** 3D Print AI'dan Stoacılığa, Kuantum Mühendisliğinden Çay Bilimine kadar birbirine bağlı 385 alan.
+-   **Stratejik Odak (Silk Road Edition):** Çin'in küresel liderliğini hedeflediği çipler, düşük irtifa teknolojileri ve geleneksel tıp branşlarının tam entegrasyonu.
+-   **Meta-Yetkinlikler:** Sadece teknik bilgi değil; "Monk Mode", "Zaman Yönetimi" ve "Hızlı Öğrenme" gibi bireyi sistemin üzerinde tutan meta-beceriler.
 
 ---
 
@@ -615,7 +629,8 @@ Aşağıdaki kategoriler, AOS ekosisteminin 385 benzersiz hücresini temsil eder
 ---
 
 ## 🛠️ Profesyonel Enstrümantasyon (V.2025)
-Sistemin verimliliğini maksimize etmek için kullanılan "Elite" araç seti:
+> "Harika bir zanaatkar, aletlerini en iyi tanıyan kişidir."
+
 - **Core Intelligence:** Gemini 2.0 / Claude 3.5 Sonnet / GPT-o1
 - **Development & IDE:** Cursor / Windsurf
 - **Research Engine:** Perplexity Pro
@@ -636,4 +651,6 @@ Bu proje **MIT Lisansı** ile korunmaktadır. Tüm hakları ve vizyonu kurucusun
 
 [Linkedin](https://linkedin.com/in/bahattinyunuscetin) | [GitHub](https://github.com/bahattinyunus)
 
+---
+*"İlim, müminin yitik malıdır; nerede bulursa alsın."*
 </div>
