@@ -51,20 +51,17 @@ def generate_encyclopedic_readme():
 # 🏛️ AKADEMİK İŞLETİM SİSTEMİ (AOS)
 ### *Yapay Zeka Çağı İçin Evrensel Bilgi Ontolojisi ve Mültidisipliner Zihin Mimarisi* 🌐💎🚀
 
-[![Versiyon](https://img.shields.io/badge/VERSION-2025.Elite-00A9E0?style=for-the-badge&logo=target)](./)
-[![Kapsam](https://img.shields.io/badge/SCOPE-371_Disciplines-D4AF37?style=for-the-badge&logo=rocket)](./SUMMARY.md)
-[![Standard](https://img.shields.io/badge/STANDARD-7--Tier_Elite-black?style=for-the-badge&logo=gitbook)](./)
-[![Architecture](https://img.shields.io/badge/ARCHITECTURE-Zülcenahayn-18453B?style=for-the-badge&logo=openai&logoColor=white)](./)
+[![Versiyon](https://img.shields.io/badge/VERSİYON-2025.Elite-00A9E0?style=for-the-badge&logo=target)](./)
+[![Kapsam](https://img.shields.io/badge/KAPSAM-372_Branş-D4AF37?style=for-the-badge&logo=rocket)](./SUMMARY.md)
+[![Standart](https://img.shields.io/badge/STANDART-7--Kademeli_Nizam-black?style=for-the-badge&logo=gitbook)](./)
+[![Mimari](https://img.shields.io/badge/MİMARİ-Zülcenahayn-18453B?style=for-the-badge&logo=openai&logoColor=white)](./)
 
 ---
 
 ## 📜 AOS MANİFESTOSU: EPİSTEMOLOJİK BÜTÜNLÜK
 **Akademik İşletim Sistemi (AOS)**, bilginin ekstrem düzeyde parçalandığı ve dezenformasyonun arttığı Post-AI döneminde, rasyonel zihni korumak ve geliştirmek için tasarlanmış **"Büyük Birleşik Bilgi Çerçevesi"**dir. 
 
-AOS, bilgiyi sadece tüketilen bir meta olarak değil, inşa edilen bir mimari olarak ele alır. Bu ekosistem, disiplinler arasındaki duvarları yıkarak; mühendislik matematiğini, sosyal bilimlerin derinliği ve ahlakın vizyonu ile tek bir potada eritir.
-
-> [!IMPORTANT]
-> **Bilim bir metodoloji, hikmet ise nihai hedeftir.** AOS; aklı fenle (ampirik gerçeklik), ruhu ise yüksek bir amaçla donatan profesyonel bir entelektüel iskelettir.
+AOS, bilgiyi sadece tüketilen bir meta olarak değil, inşa edilen bir mimari olarak ele alır. Bu ekosistem, disiplinler arasındaki duvarları yıkarak; mühendislik matematiğini, sosyal bilimlerin derinliği ve ahlakın vizyonu ile tek bir potada eritir. AOS, bir disiplinler bütünü değil, bir zihin disiplinidir.
 
 ---
 
@@ -84,28 +81,35 @@ AOS içindeki her branş, rastgele notlar yerine **Systemum Standardı** adı ve
 ---
 
 ## 🕌 FELSEFİ MİRAS VE VİZYONER RUH
-AOS, modern bilimsel metodolojiyi rasyonel bir **Yöntem** olarak kullanır. Ancak bu devasa iskelete can veren "Soul" (Ruh); kalp ve aklın, fenle dinin imtizacını hedefleyen **Medresetü’z-Zehra** gibi kadim ve vizyoner miraslardan beslenir.
+AOS, modern bilimsel metodolojiyi rasyonel bir **Yöntem** olarak kullanır. Ancak bu devasa iskelete can veren "Ruh"; kalp ve aklın, fenle dinin imtizacını hedefleyen **Medresetü’z-Zehra** vizyonundan beslenir. Bu vizyon, salt bilgi yığınını bir "Hikmet" (Wisdom) seviyesine taşıma gayretidir.
+
+Bu proje, bilginin sadece maddeden ibaret olmadığını savunan; maddeyi aklın nuruyla, manayı ise vicdanın ziyasıyla aydınlatan kadim bir mirasın dijital izdüşümüdür. Medresetü’z-Zehra, sadece bir eğitim kurumu değil; fen ilimleriyle din ilimlerinin barıştığı, modernitenin köklerle buluştuğu ve insanın "Zülcenahayn" (Çift Kanatlı) bir varlık olarak yeniden inşasını hedefleyen bir ideadır.
+
+AOS mimarisi, bu idea doğrultusunda şu temel direkler üzerine yükselir:
+- **Envanter Metodolojisi:** Varlık âleminin her bir hücresini (her bir branş) birer ayet/kanıt olarak görüp dökümante etmek.
+- **İmtizac Sırrı:** Mühendisliğin soğuk rasyonalitesini, edebiyatın ve felsefenin sıcak estetiğiyle birleştirerek "Bütüncül İnsan" modelini oluşturmak.
+- **Evrensel Nizam:** Mikro-kozmostan makro-kozmosa kadar her alanda var olan o büyük nizamı (Operating System), akademik branşların nizamıyla eşleştirmek.
 
 | ✍️ Temel Düstur | 🏛️ AOS Uygulama Prensibi |
 | :--- | :--- |
-| **"Knowledge without action is a shadow."** | **Otonom Üretim & Aktif Mühendislik** |
-| **"Heart and Mind must fly together."** | **Zülcenahayn (Çift Kanatlı) Entegrasyon** |
-| **"Seek truth through the order of existence."** | **Ampirik Sorgulama & Rasyonel Titizlik** |
+| **"Eyleme dökülmeyen ilim, yerinde sayan bir gölge gibidir."** | **Otonom Üretim & Aktif Mühendislik** |
+| **"Hakikat için Din ve Fen el eledir."** | **Zülcenahayn (Çift Kanatlı) Entegrasyon** |
+| **"Varlığın büyük nizamını bilmek için çabala."** | **Ampirik Sorgulama & Rasyonel Titizlik** |
 
 ---
 
-## 🛠️ MODERN ENSTRÜMANTASYON (TECH STACK)
+## 🛠️ MODERN ENSTRÜMANTASYON (TEKNOLOJİ YIĞINI)
 AOS, 21. yüzyılın en ileri araçlarıyla donatılmış bir "Dijital Medrese"dir:
 - **Çekirdek Zeka:** Gemini 2.0 & Claude 3.5 Sonnet (Bilgi Sentezleyici)
-- **Geliştirme Ortamı:** Cursor / Windsurf (Agentic Coding & Automation)
-- **Araştırma Motoru:** Perplexity Pro (Real-time Academic Search)
-- **Bilgi Yönetimi:** Obsidian & Markdown Hierarchy (Epistemolojik Graft)
+- **Geliştirme Ortamı:** Cursor / Windsurf (Agentic Coding & Otomasyon)
+- **Araştırma Motoru:** Perplexity Pro (Gerçek Zamanlı Akademik Arama)
+- **Bilgi Yönetimi:** Obsidian & Markdown Hiyerarşisi (Epistemolojik Graft)
 
 ---
 
-## 📚 ANSİKLOPEDİK BÖLÜM DİZİNİ (371 BRANŞ)
+## 📚 ANSİKLOPEDİK BÖLÜM DİZİNİ (372 BRANŞ)
 
-Aşağıdaki kategoriler, AOS ekosisteminin 371 benzersiz hücresini temsil eder.
+Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder.
 
 """
 
@@ -156,7 +160,7 @@ Bu proje, açık kaynak felsefesine sadık kalarak **MIT Lisansı** altında kor
 *"The ink of the scholar is more sacred than the blood of the martyr."*
 
 ---
-© 2025 Akademik İşletim Sistemi. Zihinlerin disiplini, geleceğin inşasıdır.
+© 2025 Akademik İşletim Sistemi (AOS).
 </div>
 """
 
@@ -165,7 +169,7 @@ Bu proje, açık kaynak felsefesine sadık kalarak **MIT Lisansı** altında kor
     with open(os.path.join(ROOT_DIR, 'README.md'), 'w', encoding='utf-8') as f:
         f.write(full_content)
         
-    print(f"README.md expanded with Professional Elite Edition. Total: {total_count}")
+    print(f"README.md updated with Turkish Focus & Expanded Soul. Total: {total_count}")
 
 if __name__ == "__main__":
     generate_encyclopedic_readme()
