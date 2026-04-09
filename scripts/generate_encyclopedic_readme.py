@@ -32,8 +32,6 @@ SPECIAL_DESCRIPTIONS = {
     'siber_guvenlik_muhendisligi': 'Dijital kalelerin savunma ve strateji merkezi.',
     'havacilik_ve_uzay_muhendisligi': 'Yeryüzü sınırlarını aşan yüksek fizik ve itki mühendisliği.',
     'monk_mode_disiplin_sistemi': 'Yüksek odaklanma ve sarsılmaz bir irade için zihinsel işletim sistemi.',
-    'tutun_bilimi': 'Tütün bitkisinin agronomik, endüstriyel ve kimyasal süreçlerinin akademik analizi.',
-    'deniz_hukuku_ve_stratejisi': 'Mavi Vatan ve uluslararası sularda egemenlik haklarının hukuki temelleri.',
 }
 
 def get_desc(folder, container):
@@ -51,52 +49,63 @@ def generate_encyclopedic_readme():
 ![AOS Hero Banner](assets/aos_hero_banner.png)
 
 # 🏛️ AKADEMİK İŞLETİM SİSTEMİ (AOS)
-### *Yapay Zeka Çağı İçin Küresel Bilgi Nizamı ve Mültidisipliner Ontoloji* 🌐💎🚀
+### *Yapay Zeka Çağı İçin Evrensel Bilgi Ontolojisi ve Mültidisipliner Zihin Mimarisi* 🌐💎🚀
 
 [![Versiyon](https://img.shields.io/badge/VERSION-2025.Elite-00A9E0?style=for-the-badge&logo=target)](./)
-[![Kapsam](https://img.shields.io/badge/SCOPE-372_Disciplines-D4AF37?style=for-the-badge&logo=rocket)](./SUMMARY.md)
+[![Kapsam](https://img.shields.io/badge/SCOPE-371_Disciplines-D4AF37?style=for-the-badge&logo=rocket)](./SUMMARY.md)
 [![Standard](https://img.shields.io/badge/STANDARD-7--Tier_Elite-black?style=for-the-badge&logo=gitbook)](./)
-[![Philosophy](https://img.shields.io/badge/VISION-Double_Wing-18453B?style=for-the-badge&logo=openai&logoColor=white)](./)
+[![Architecture](https://img.shields.io/badge/ARCHITECTURE-Zülcenahayn-18453B?style=for-the-badge&logo=openai&logoColor=white)](./)
 
 ---
 
-## 📜 AOS ANA DÜSTURU VE MANİFESTO
-**Akademik İşletim Sistemi (AOS)**, bilginin parçalandığı bu çağda, her disiplini tek bir rasyonel ve metodolojik çatı altında birleştiren "Zülcenahayn" (Çift Kanatlı) bir dökümantasyon ekosistemidir.
+## 📜 AOS MANİFESTOSU: EPİSTEMOLOJİK BÜTÜNLÜK
+**Akademik İşletim Sistemi (AOS)**, bilginin ekstrem düzeyde parçalandığı ve dezenformasyonun arttığı Post-AI döneminde, rasyonel zihni korumak ve geliştirmek için tasarlanmış **"Büyük Birleşik Bilgi Çerçevesi"**dir. 
+
+AOS, bilgiyi sadece tüketilen bir meta olarak değil, inşa edilen bir mimari olarak ele alır. Bu ekosistem, disiplinler arasındaki duvarları yıkarak; mühendislik matematiğini, sosyal bilimlerin derinliği ve ahlakın vizyonu ile tek bir potada eritir.
 
 > [!IMPORTANT]
-> **Bilim bir yöntem, merak ise motorumuzdur.** AOS; aklı fenle (bilimle), ruhu yüksek bir vizyonla donatan profesyonel bir akademik iskelettir. Burada bilim metodolojidir, hakikat ise nihai gayedir.
+> **Bilim bir metodoloji, hikmet ise nihai hedeftir.** AOS; aklı fenle (ampirik gerçeklik), ruhu ise yüksek bir amaçla donatan profesyonel bir entelektüel iskelettir.
 
 ---
 
 </div>
 
-## ⚙️ ELİT 7-KADEMELİ HİYERARŞİ (Systemum 0-6)
-AOS içindeki her branş, rastgele notlar yerine **7 katmanlı elit bir nizam** üzerine inşa edilmiştir:
+## ⚙️ SİSTEMATİK YAPI: 7-KADEMELİ ELİT NİZAM (00-06)
+AOS içindeki her branş, rastgele notlar yerine **Systemum Standardı** adı verilen 7 katmanlı rijit bir hiyerarşi üzerine inşa edilmiştir. Bu yapı, Bologna Süreci ve ABET standartlarının ötesine geçerek, bireysel uzmanlığı otonom üretim seviyesine taşır:
 
-| Kademe | Tanım | Akademik Hedef |
-| :--- | :--- | :--- |
-| **`00`** | **Hazırlık** | Dil yeterliliği ve temel metodolojik oryantasyon. |
-| **`01`** | **Teori** | Alanın üzerine inşa edildiği sayısal ve kuramsal temel. |
-| **`02`** | **Çekirdek** | En zorunlu ve temel branş yetkinliklerinin inşası. |
-| **`03`** | **Uzmanlık** | Seçmeli ve ileri seviye branş derinleşmesi. |
-| **`04`** | **Üretim** | Orijinal bitirme projeleri ve AR-GE çıktıları. |
-| **`05`** | **Akademi** | Lisansüstü ve bilimsel araştırma metodolojileri. |
-| **`06`** | **Dünya** | Sektörel sertifikasyonlar ve küresel standartlar. |
+1. **`00 — Hazırlık & Oryantasyon`**: Terminoloji hakimiyeti, yabancı dil yeterliliği ve metodolojik giriş.
+2. **`01 — Teorik Temeller`**: Matematiksel modelleme, fiziksel yasalar ve disiplinin kuramsal omurgası.
+3. **`02 — Çekirdek Müfredat`**: Zorunlu ana branş yetkinlikleri ve uygulama pratikleri.
+4. **`03 — İleri Uzmanlık`**: Niş alanlarda derinleşme, seçmeli uzmanlık dökümantasyonu.
+5. **`04 — AR-GE & Üretim`**: Bitirme projeleri, Capstone çalışmaları ve orijinal akademik çıktılar.
+6. **`05 — Akademik Kariyer`**: Lisansüstü araştırma metodolojileri ve bilimsel yayın hazırlığı.
+7. **`06 — Portfolyo & Endüstri`**: Küresel sertifikasyonlar, endüstriyel standartlar (ISO, IEEE, MIL-STD) ve profesyonel ağ.
 
 ---
 
-## 🏛️ VİZYONER MİRAS: "RUHUMUZUN DERİNLİĞİ"
-AOS, modern bilimsel metodolojiyi rasyonel bir **Yöntem** olarak kullanır. Ancak bu devasa iskelete can veren ruh; kalbi ve aklı, fenle dinin imtizacını hedefleyen **Medresetü’z-Zehra** gibi kadim ve vizyoner miraslardan beslenir.
+## 🕌 FELSEFİ MİRAS VE VİZYONER RUH
+AOS, modern bilimsel metodolojiyi rasyonel bir **Yöntem** olarak kullanır. Ancak bu devasa iskelete can veren "Soul" (Ruh); kalp ve aklın, fenle dinin imtizacını hedefleyen **Medresetü’z-Zehra** gibi kadim ve vizyoner miraslardan beslenir.
 
-> [!TIP]
-> **"Aklın nuru fünun-u medeniyedir, vicdanın ziyası ulûm-u diniyedir."**
-> Bizim için bilim, "Varlığın Büyük Nizamı"nı anlama çabasıdır.
+| ✍️ Temel Düstur | 🏛️ AOS Uygulama Prensibi |
+| :--- | :--- |
+| **"Knowledge without action is a shadow."** | **Otonom Üretim & Aktif Mühendislik** |
+| **"Heart and Mind must fly together."** | **Zülcenahayn (Çift Kanatlı) Entegrasyon** |
+| **"Seek truth through the order of existence."** | **Ampirik Sorgulama & Rasyonel Titizlik** |
 
 ---
 
-## 📚 ANSİKLOPEDİK BÖLÜM DİZİNİ (372 BRANŞ)
+## 🛠️ MODERN ENSTRÜMANTASYON (TECH STACK)
+AOS, 21. yüzyılın en ileri araçlarıyla donatılmış bir "Dijital Medrese"dir:
+- **Çekirdek Zeka:** Gemini 2.0 & Claude 3.5 Sonnet (Bilgi Sentezleyici)
+- **Geliştirme Ortamı:** Cursor / Windsurf (Agentic Coding & Automation)
+- **Araştırma Motoru:** Perplexity Pro (Real-time Academic Search)
+- **Bilgi Yönetimi:** Obsidian & Markdown Hierarchy (Epistemolojik Graft)
 
-Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder.
+---
+
+## 📚 ANSİKLOPEDİK BÖLÜM DİZİNİ (371 BRANŞ)
+
+Aşağıdaki kategoriler, AOS ekosisteminin 371 benzersiz hücresini temsil eder.
 
 """
 
@@ -113,7 +122,7 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
             continue
             
         section = f"<details>\n<summary><b>{title} ({len(depts)} Alan)</b></summary>\n<br>\n\n"
-        section += "| Branş / Alan | Akademik Misyon & Odak |\n"
+        section += "| Branş / Alan | Akademik Misyon & Stratejik Odak |\n"
         section += "| :--- | :--- |\n"
         
         for d in depts:
@@ -132,21 +141,22 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
     footer = f"""
 ---
 
-## 🛠️ PROFESYONEL ARAÇLAR & MİMARİ
-- **Çekirdek Akıl:** Gemini 2.0 / Claude 3.5 Sonnet
-- **Ontoloji:** 7-Tier Standardize Scaffolding
-- **Geliştirici:** Bahattin Yunus Çetin (*Mühendis & AOS Mimarı*)
-
----
-
 <div align="center">
 
-**[Linkedin](https://linkedin.com/in/bahattinyunuscetin) | [GitHub](https://github.com/bahattinyunus)**
+## ⚖️ HUKUKİ STATÜ VE LİSANS
+Bu proje, açık kaynak felsefesine sadık kalarak **MIT Lisansı** altında korunmaktadır. Tüm akademik dökümantasyon metodolojisi, evrensel bilim standartlarına göre yapılandırılmıştır.
 
-*"İlim, müminin yitik malıdır; nerede bulursa alsın."*
+**Geliştirici & Mimar**  
+### Bahattin Yunus Çetin  
+*Engineer - Researcher - AOS Architect*
+
+[Linkedin](https://linkedin.com/in/bahattinyunuscetin) | [GitHub](https://github.com/bahattinyunus)
 
 ---
-© 2025 AOS - Tüm Hakları Bilim ve Hikmete Aittir.
+*"The ink of the scholar is more sacred than the blood of the martyr."*
+
+---
+© 2025 Akademik İşletim Sistemi. Zihinlerin disiplini, geleceğin inşasıdır.
 </div>
 """
 
@@ -155,7 +165,7 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
     with open(os.path.join(ROOT_DIR, 'README.md'), 'w', encoding='utf-8') as f:
         f.write(full_content)
         
-    print(f"README.md updated with 'The Ayar' (Ultimate Refinement). Total: {total_count}")
+    print(f"README.md expanded with Professional Elite Edition. Total: {total_count}")
 
 if __name__ == "__main__":
     generate_encyclopedic_readme()

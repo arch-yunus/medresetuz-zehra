@@ -3,58 +3,69 @@
 ![AOS Hero Banner](assets/aos_hero_banner.png)
 
 # 🏛️ AKADEMİK İŞLETİM SİSTEMİ (AOS)
-### *Yapay Zeka Çağı İçin Küresel Bilgi Nizamı ve Mültidisipliner Ontoloji* 🌐💎🚀
+### *Yapay Zeka Çağı İçin Evrensel Bilgi Ontolojisi ve Mültidisipliner Zihin Mimarisi* 🌐💎🚀
 
 [![Versiyon](https://img.shields.io/badge/VERSION-2025.Elite-00A9E0?style=for-the-badge&logo=target)](./)
-[![Kapsam](https://img.shields.io/badge/SCOPE-372_Disciplines-D4AF37?style=for-the-badge&logo=rocket)](./SUMMARY.md)
+[![Kapsam](https://img.shields.io/badge/SCOPE-371_Disciplines-D4AF37?style=for-the-badge&logo=rocket)](./SUMMARY.md)
 [![Standard](https://img.shields.io/badge/STANDARD-7--Tier_Elite-black?style=for-the-badge&logo=gitbook)](./)
-[![Philosophy](https://img.shields.io/badge/VISION-Double_Wing-18453B?style=for-the-badge&logo=openai&logoColor=white)](./)
+[![Architecture](https://img.shields.io/badge/ARCHITECTURE-Zülcenahayn-18453B?style=for-the-badge&logo=openai&logoColor=white)](./)
 
 ---
 
-## 📜 AOS ANA DÜSTURU VE MANİFESTO
-**Akademik İşletim Sistemi (AOS)**, bilginin parçalandığı bu çağda, her disiplini tek bir rasyonel ve metodolojik çatı altında birleştiren "Zülcenahayn" (Çift Kanatlı) bir dökümantasyon ekosistemidir.
+## 📜 AOS MANİFESTOSU: EPİSTEMOLOJİK BÜTÜNLÜK
+**Akademik İşletim Sistemi (AOS)**, bilginin ekstrem düzeyde parçalandığı ve dezenformasyonun arttığı Post-AI döneminde, rasyonel zihni korumak ve geliştirmek için tasarlanmış **"Büyük Birleşik Bilgi Çerçevesi"**dir. 
+
+AOS, bilgiyi sadece tüketilen bir meta olarak değil, inşa edilen bir mimari olarak ele alır. Bu ekosistem, disiplinler arasındaki duvarları yıkarak; mühendislik matematiğini, sosyal bilimlerin derinliği ve ahlakın vizyonu ile tek bir potada eritir.
 
 > [!IMPORTANT]
-> **Bilim bir yöntem, merak ise motorumuzdur.** AOS; aklı fenle (bilimle), ruhu yüksek bir vizyonla donatan profesyonel bir akademik iskelettir. Burada bilim metodolojidir, hakikat ise nihai gayedir.
+> **Bilim bir metodoloji, hikmet ise nihai hedeftir.** AOS; aklı fenle (ampirik gerçeklik), ruhu ise yüksek bir amaçla donatan profesyonel bir entelektüel iskelettir.
 
 ---
 
 </div>
 
-## ⚙️ ELİT 7-KADEMELİ HİYERARŞİ (Systemum 0-6)
-AOS içindeki her branş, rastgele notlar yerine **7 katmanlı elit bir nizam** üzerine inşa edilmiştir:
+## ⚙️ SİSTEMATİK YAPI: 7-KADEMELİ ELİT NİZAM (00-06)
+AOS içindeki her branş, rastgele notlar yerine **Systemum Standardı** adı verilen 7 katmanlı rijit bir hiyerarşi üzerine inşa edilmiştir. Bu yapı, Bologna Süreci ve ABET standartlarının ötesine geçerek, bireysel uzmanlığı otonom üretim seviyesine taşır:
 
-| Kademe | Tanım | Akademik Hedef |
-| :--- | :--- | :--- |
-| **`00`** | **Hazırlık** | Dil yeterliliği ve temel metodolojik oryantasyon. |
-| **`01`** | **Teori** | Alanın üzerine inşa edildiği sayısal ve kuramsal temel. |
-| **`02`** | **Çekirdek** | En zorunlu ve temel branş yetkinliklerinin inşası. |
-| **`03`** | **Uzmanlık** | Seçmeli ve ileri seviye branş derinleşmesi. |
-| **`04`** | **Üretim** | Orijinal bitirme projeleri ve AR-GE çıktıları. |
-| **`05`** | **Akademi** | Lisansüstü ve bilimsel araştırma metodolojileri. |
-| **`06`** | **Dünya** | Sektörel sertifikasyonlar ve küresel standartlar. |
+1. **`00 — Hazırlık & Oryantasyon`**: Terminoloji hakimiyeti, yabancı dil yeterliliği ve metodolojik giriş.
+2. **`01 — Teorik Temeller`**: Matematiksel modelleme, fiziksel yasalar ve disiplinin kuramsal omurgası.
+3. **`02 — Çekirdek Müfredat`**: Zorunlu ana branş yetkinlikleri ve uygulama pratikleri.
+4. **`03 — İleri Uzmanlık`**: Niş alanlarda derinleşme, seçmeli uzmanlık dökümantasyonu.
+5. **`04 — AR-GE & Üretim`**: Bitirme projeleri, Capstone çalışmaları ve orijinal akademik çıktılar.
+6. **`05 — Akademik Kariyer`**: Lisansüstü araştırma metodolojileri ve bilimsel yayın hazırlığı.
+7. **`06 — Portfolyo & Endüstri`**: Küresel sertifikasyonlar, endüstriyel standartlar (ISO, IEEE, MIL-STD) ve profesyonel ağ.
 
 ---
 
-## 🏛️ VİZYONER MİRAS: "RUHUMUZUN DERİNLİĞİ"
-AOS, modern bilimsel metodolojiyi rasyonel bir **Yöntem** olarak kullanır. Ancak bu devasa iskelete can veren ruh; kalbi ve aklı, fenle dinin imtizacını hedefleyen **Medresetü’z-Zehra** gibi kadim ve vizyoner miraslardan beslenir.
+## 🕌 FELSEFİ MİRAS VE VİZYONER RUH
+AOS, modern bilimsel metodolojiyi rasyonel bir **Yöntem** olarak kullanır. Ancak bu devasa iskelete can veren "Soul" (Ruh); kalp ve aklın, fenle dinin imtizacını hedefleyen **Medresetü’z-Zehra** gibi kadim ve vizyoner miraslardan beslenir.
 
-> [!TIP]
-> **"Aklın nuru fünun-u medeniyedir, vicdanın ziyası ulûm-u diniyedir."**
-> Bizim için bilim, "Varlığın Büyük Nizamı"nı anlama çabasıdır.
+| ✍️ Temel Düstur | 🏛️ AOS Uygulama Prensibi |
+| :--- | :--- |
+| **"Knowledge without action is a shadow."** | **Otonom Üretim & Aktif Mühendislik** |
+| **"Heart and Mind must fly together."** | **Zülcenahayn (Çift Kanatlı) Entegrasyon** |
+| **"Seek truth through the order of existence."** | **Ampirik Sorgulama & Rasyonel Titizlik** |
 
 ---
 
-## 📚 ANSİKLOPEDİK BÖLÜM DİZİNİ (372 BRANŞ)
+## 🛠️ MODERN ENSTRÜMANTASYON (TECH STACK)
+AOS, 21. yüzyılın en ileri araçlarıyla donatılmış bir "Dijital Medrese"dir:
+- **Çekirdek Zeka:** Gemini 2.0 & Claude 3.5 Sonnet (Bilgi Sentezleyici)
+- **Geliştirme Ortamı:** Cursor / Windsurf (Agentic Coding & Automation)
+- **Araştırma Motoru:** Perplexity Pro (Real-time Academic Search)
+- **Bilgi Yönetimi:** Obsidian & Markdown Hierarchy (Epistemolojik Graft)
 
-Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder.
+---
+
+## 📚 ANSİKLOPEDİK BÖLÜM DİZİNİ (371 BRANŞ)
+
+Aşağıdaki kategoriler, AOS ekosisteminin 371 benzersiz hücresini temsil eder.
 
 <details>
 <summary><b>🛠️ Mühendislik & İleri Teknoloji (64 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Odak |
+| Branş / Alan | Akademik Misyon & Stratejik Odak |
 | :--- | :--- |
 | [Adli Bilişim Mühendisliği](meta_muhendislik/adli_bilisim_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
 | [Akilli Gorsel Isitsel Muhendislik](meta_muhendislik/akilli_gorsel_isitsel_muhendislik/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
@@ -127,7 +138,7 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
 <summary><b>🏛️ Mimarlık, Tasarım & Şehircilik (15 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Odak |
+| Branş / Alan | Akademik Misyon & Stratejik Odak |
 | :--- | :--- |
 | [Cizgi Film Ve Animasyon](mimarlik_ve_tasarim/cizgi_film_ve_animasyon/) | Cizgi Film Ve Animasyon disiplinine ait teorik ve pratik uzmanlık deposu. |
 | [Endustriyel Tasarim](mimarlik_ve_tasarim/endustriyel_tasarim/) | Endustriyel Tasarim disiplinine ait teorik ve pratik uzmanlık deposu. |
@@ -151,7 +162,7 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
 <summary><b>🖼️ Güzel Sanatlar & Estetik (8 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Odak |
+| Branş / Alan | Akademik Misyon & Stratejik Odak |
 | :--- | :--- |
 | [Dijital Tiyatro](guzel_sanatlar/dijital_tiyatro/) | Dijital Tiyatro disiplinine ait teorik ve pratik uzmanlık deposu. |
 | [El Sanatlari](guzel_sanatlar/el_sanatlari/) | El Sanatlari disiplinine ait teorik ve pratik uzmanlık deposu. |
@@ -168,7 +179,7 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
 <summary><b>🩺 Sağlık Bilimleri & Tıp (30 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Odak |
+| Branş / Alan | Akademik Misyon & Stratejik Odak |
 | :--- | :--- |
 | [Acil Yardim Ve Afet Yonetimi](saglik/acil_yardim_ve_afet_yonetimi/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
 | [Akupunktur Ve Moxibustion](saglik/akupunktur_ve_moxibustion/) | Akupunktur Ve Moxibustion disiplinine ait teorik ve pratik uzmanlık deposu. |
@@ -207,7 +218,7 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
 <summary><b>🎓 Eğitim Fakültesi & Pedagoji (16 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Odak |
+| Branş / Alan | Akademik Misyon & Stratejik Odak |
 | :--- | :--- |
 | [Beden Egitimi Ve Spor Ogretmenligi](ogretmenlik/beden_egitimi_ve_spor_ogretmenligi/) | Beden Egitimi Ve Spor Ogretmenligi disiplinine ait teorik ve pratik uzmanlık deposu. |
 | [Bilgisayar Ve Ogretim Teknolojileri Egitimi](ogretmenlik/bilgisayar_ve_ogretim_teknolojileri_egitimi/) | Bilgisayar Ve Ogretim Teknolojileri Egitimi disiplinine ait teorik ve pratik uzmanlık deposu. |
@@ -232,7 +243,7 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
 <summary><b>🏅 Spor Bilimleri & Performans (8 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Odak |
+| Branş / Alan | Akademik Misyon & Stratejik Odak |
 | :--- | :--- |
 | [Antrenorluk Egitimi](spor_bilimleri/antrenorluk_egitimi/) | Antrenorluk Egitimi disiplinine ait teorik ve pratik uzmanlık deposu. |
 | [Beden Egitimi Ve Spor Bilimleri](spor_bilimleri/beden_egitimi_ve_spor_bilimleri/) | Beden Egitimi Ve Spor Bilimleri disiplinine ait teorik ve pratik uzmanlık deposu. |
@@ -249,7 +260,7 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
 <summary><b>⚖️ Sosyal, Beşeri & İdari Bilimler (39 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Odak |
+| Branş / Alan | Akademik Misyon & Stratejik Odak |
 | :--- | :--- |
 | [Aktüerya Bilimleri](sosyal_ve_beseri_bilimler/aktüerya_bilimleri/) | Aktüerya Bilimleri disiplinine ait teorik ve pratik uzmanlık deposu. |
 | [Antropoloji](sosyal_ve_beseri_bilimler/antropoloji/) | Antropoloji disiplinine ait teorik ve pratik uzmanlık deposu. |
@@ -297,7 +308,7 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
 <summary><b>🧪 Temel Fen Bilimleri (12 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Odak |
+| Branş / Alan | Akademik Misyon & Stratejik Odak |
 | :--- | :--- |
 | [Astronomi Ve Uzay Bilimleri](temel_bilimler/astronomi_ve_uzay_bilimleri/) | Astronomi Ve Uzay Bilimleri disiplinine ait teorik ve pratik uzmanlık deposu. |
 | [Biyoistatistik](temel_bilimler/biyoistatistik/) | Biyoistatistik disiplinine ait teorik ve pratik uzmanlık deposu. |
@@ -318,7 +329,7 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
 <summary><b>📚 Filoloji, Dil & Edebiyat (17 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Odak |
+| Branş / Alan | Akademik Misyon & Stratejik Odak |
 | :--- | :--- |
 | [Alman Dili Ve Edebiyati](edebiyat_ve_diller/alman_dili_ve_edebiyati/) | Filolojik yapı ve kültürel mirasın derinlemesine incelenmesi. |
 | [Arap Dili Ve Edebiyati](edebiyat_ve_diller/arap_dili_ve_edebiyati/) | Filolojik yapı ve kültürel mirasın derinlemesine incelenmesi. |
@@ -344,7 +355,7 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
 <summary><b>📡 İletişim & Medya Bilimleri (4 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Odak |
+| Branş / Alan | Akademik Misyon & Stratejik Odak |
 | :--- | :--- |
 | [Gazetecilik](iletisim/gazetecilik/) | Gazetecilik disiplinine ait teorik ve pratik uzmanlık deposu. |
 | [Halkla Iliskiler Ve Reklamcilik](iletisim/halkla_iliskiler_ve_reklamcilik/) | Halkla Iliskiler Ve Reklamcilik disiplinine ait teorik ve pratik uzmanlık deposu. |
@@ -357,7 +368,7 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
 <summary><b>🏨 Turizm, Otelcilik & Gastronomi (7 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Odak |
+| Branş / Alan | Akademik Misyon & Stratejik Odak |
 | :--- | :--- |
 | [Gastronomi Ve Mutfak Sanatlari](turizm_ve_gastronomi/gastronomi_ve_mutfak_sanatlari/) | Gastronomi Ve Mutfak Sanatlari disiplinine ait teorik ve pratik uzmanlık deposu. |
 | [Kahve Bilimi Ve Mühendisliği](turizm_ve_gastronomi/kahve_bilimi_ve_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
@@ -373,7 +384,7 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
 <summary><b>🌱 Tarım, Ziraat & Doğa Bilimleri (8 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Odak |
+| Branş / Alan | Akademik Misyon & Stratejik Odak |
 | :--- | :--- |
 | [Bahce Bitkileri](tarim_ve_ziraat_bilimleri/bahce_bitkileri/) | Bahce Bitkileri disiplinine ait teorik ve pratik uzmanlık deposu. |
 | [Bitki Koruma](tarim_ve_ziraat_bilimleri/bitki_koruma/) | Bitki Koruma disiplinine ait teorik ve pratik uzmanlık deposu. |
@@ -381,7 +392,7 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
 | [Cay Bilimi Ve Teknolojisi](tarim_ve_ziraat_bilimleri/cay_bilimi_ve_teknolojisi/) | Cay Bilimi Ve Teknolojisi disiplinine ait teorik ve pratik uzmanlık deposu. |
 | [Tarla Bitkileri](tarim_ve_ziraat_bilimleri/tarla_bitkileri/) | Tarla Bitkileri disiplinine ait teorik ve pratik uzmanlık deposu. |
 | [Toprak Bilimi Ve Bitki Besleme](tarim_ve_ziraat_bilimleri/toprak_bilimi_ve_bitki_besleme/) | Toprak Bilimi Ve Bitki Besleme disiplinine ait teorik ve pratik uzmanlık deposu. |
-| [Tutun Bilimi](tarim_ve_ziraat_bilimleri/tutun_bilimi/) | Tütün bitkisinin agronomik, endüstriyel ve kimyasal süreçlerinin akademik analizi. |
+| [Tutun Bilimi](tarim_ve_ziraat_bilimleri/tutun_bilimi/) | Tutun Bilimi disiplinine ait teorik ve pratik uzmanlık deposu. |
 | [Zootekni](tarim_ve_ziraat_bilimleri/zootekni/) | Zootekni disiplinine ait teorik ve pratik uzmanlık deposu. |
 
 </details>
@@ -390,7 +401,7 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
 <summary><b>⚔️ Savunma Sanayii & Güvenlik Stratejileri (6 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Odak |
+| Branş / Alan | Akademik Misyon & Stratejik Odak |
 | :--- | :--- |
 | [Askeri Havacilik Ve Uzay](askeri_bilimler_ve_savunma_teknolojileri/askeri_havacilik_ve_uzay/) | Askeri Havacilik Ve Uzay disiplinine ait teorik ve pratik uzmanlık deposu. |
 | [Askeri Istihbarat Analizi](askeri_bilimler_ve_savunma_teknolojileri/askeri_istihbarat_analizi/) | Askeri Istihbarat Analizi disiplinine ait teorik ve pratik uzmanlık deposu. |
@@ -405,9 +416,9 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
 <summary><b>⚖️ Adalet & Hukuk Bilimleri (2 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Odak |
+| Branş / Alan | Akademik Misyon & Stratejik Odak |
 | :--- | :--- |
-| [Deniz Hukuku Ve Stratejisi](hukuk_bilimi/deniz_hukuku_ve_stratejisi/) | Mavi Vatan ve uluslararası sularda egemenlik haklarının hukuki temelleri. |
+| [Deniz Hukuku Ve Stratejisi](hukuk_bilimi/deniz_hukuku_ve_stratejisi/) | Deniz Hukuku Ve Stratejisi disiplinine ait teorik ve pratik uzmanlık deposu. |
 | [Hukuk](hukuk_bilimi/hukuk/) | Hukuk disiplinine ait teorik ve pratik uzmanlık deposu. |
 
 </details>
@@ -416,7 +427,7 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
 <summary><b>🕌 İlahiyat, Din & Felsefe (1 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Odak |
+| Branş / Alan | Akademik Misyon & Stratejik Odak |
 | :--- | :--- |
 | [Ilahiyat](ilahiyat_ve_din/ilahiyat/) | Ilahiyat disiplinine ait teorik ve pratik uzmanlık deposu. |
 
@@ -426,7 +437,7 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
 <summary><b>📋 Mesleki Yüksekokul (Ön Lisans) (72 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Odak |
+| Branş / Alan | Akademik Misyon & Stratejik Odak |
 | :--- | :--- |
 | [Adalet](on_lisans_programlari/adalet/) | Adalet disiplinine ait teorik ve pratik uzmanlık deposu. |
 | [Agiz Ve Dis Sagligi](on_lisans_programlari/agiz_ve_dis_sagligi/) | Agiz Ve Dis Sagligi disiplinine ait teorik ve pratik uzmanlık deposu. |
@@ -507,7 +518,7 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
 <summary><b>🔬 Disiplinlerarası & Özel Araştırma (39 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Odak |
+| Branş / Alan | Akademik Misyon & Stratejik Odak |
 | :--- | :--- |
 | [3D Print Ai](ozel_arastirma_alanlari/3d_print_ai/) | 3D Print Ai disiplinine ait teorik ve pratik uzmanlık deposu. |
 | [Agro Tek Ve Topraksiz Tarim](ozel_arastirma_alanlari/agro_tek_ve_topraksiz_tarim/) | Agro Tek Ve Topraksiz Tarim disiplinine ait teorik ve pratik uzmanlık deposu. |
@@ -555,7 +566,7 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
 <summary><b>🚀 Kariyer, Portfolyo & Sertifika (12 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Odak |
+| Branş / Alan | Akademik Misyon & Stratejik Odak |
 | :--- | :--- |
 | [Aws Certified Architect](kariyer_ve_sertifikasyonlar/aws_certified_architect/) | Aws Certified Architect disiplinine ait teorik ve pratik uzmanlık deposu. |
 | [Cfa Chartered Financial Analyst](kariyer_ve_sertifikasyonlar/cfa_chartered_financial_analyst/) | Cfa Chartered Financial Analyst disiplinine ait teorik ve pratik uzmanlık deposu. |
@@ -576,7 +587,7 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
 <summary><b>🧠 Meta-Zihin & Kişisel Disiplin (8 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Odak |
+| Branş / Alan | Akademik Misyon & Stratejik Odak |
 | :--- | :--- |
 | [Finansal Okuryazarlik Ve Yatirim](meta_yetkinlikler_ve_gelisim/finansal_okuryazarlik_ve_yatirim/) | Finansal Okuryazarlik Ve Yatirim disiplinine ait teorik ve pratik uzmanlık deposu. |
 | [Hizli Ogrenme Teknikleri](meta_yetkinlikler_ve_gelisim/hizli_ogrenme_teknikleri/) | Hizli Ogrenme Teknikleri disiplinine ait teorik ve pratik uzmanlık deposu. |
@@ -593,7 +604,7 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
 <summary><b>📂 Genel Arşiv & Ortak Alanlar (3 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Odak |
+| Branş / Alan | Akademik Misyon & Stratejik Odak |
 | :--- | :--- |
 | [Afet Yonetimi Ve Acil Durum Teknolojileri](genel/afet_yonetimi_ve_acil_durum_teknolojileri/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
 | [Erasmus Ve Global Degisim Programlari](genel/erasmus_ve_global_degisim_programlari/) | Erasmus Ve Global Degisim Programlari disiplinine ait teorik ve pratik uzmanlık deposu. |
@@ -604,19 +615,20 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
 
 ---
 
-## 🛠️ PROFESYONEL ARAÇLAR & MİMARİ
-- **Çekirdek Akıl:** Gemini 2.0 / Claude 3.5 Sonnet
-- **Ontoloji:** 7-Tier Standardize Scaffolding
-- **Geliştirici:** Bahattin Yunus Çetin (*Mühendis & AOS Mimarı*)
-
----
-
 <div align="center">
 
-**[Linkedin](https://linkedin.com/in/bahattinyunuscetin) | [GitHub](https://github.com/bahattinyunus)**
+## ⚖️ HUKUKİ STATÜ VE LİSANS
+Bu proje, açık kaynak felsefesine sadık kalarak **MIT Lisansı** altında korunmaktadır. Tüm akademik dökümantasyon metodolojisi, evrensel bilim standartlarına göre yapılandırılmıştır.
 
-*"İlim, müminin yitik malıdır; nerede bulursa alsın."*
+**Geliştirici & Mimar**  
+### Bahattin Yunus Çetin  
+*Engineer - Researcher - AOS Architect*
+
+[Linkedin](https://linkedin.com/in/bahattinyunuscetin) | [GitHub](https://github.com/bahattinyunus)
 
 ---
-© 2025 AOS - Tüm Hakları Bilim ve Hikmete Aittir.
+*"The ink of the scholar is more sacred than the blood of the martyr."*
+
+---
+© 2025 Akademik İşletim Sistemi. Zihinlerin disiplini, geleceğin inşasıdır.
 </div>
