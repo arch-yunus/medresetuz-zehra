@@ -55,7 +55,7 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 20 stratejik konteyner altında gruplanan her alan, uzmanlık için standart bir yol sunar.
 
 <details>
-<summary><b>🛠️ Mühendislik Bilimleri (65 Alan)</b></summary>
+<summary><b>🛠️ Mühendislik Bilimleri (64 Alan)</b></summary>
 <br>
 
 | Bölüm / Alan | Akademik Odak / Misyon |
@@ -74,7 +74,6 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 | [Biyosistem Muhendisligi](meta_muhendislik/biyosistem_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Cevher Hazirlama Muhendisligi](meta_muhendislik/cevher_hazirlama_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Cevre Muhendisligi](meta_muhendislik/cevre_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Deniz Hukuku Ve Stratejisi](meta_muhendislik/deniz_hukuku_ve_stratejisi/) | Deniz hukuku ve stratejisi alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Deniz Ulastirma Isletme Muhendisligi](meta_muhendislik/deniz_ulastirma_isletme_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Deri Muhendisligi](meta_muhendislik/deri_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Dusuk Irtifa Teknolojisi Ve Iha](meta_muhendislik/dusuk_irtifa_teknolojisi_ve_iha/) | Dronelar ve alçak irtifa hava araçlarının aerodinamik ve sistem tasarımı. |
@@ -83,6 +82,7 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 | [Endustri Muhendisligi](meta_muhendislik/endustri_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Endustriyel Tasarim Muhendisligi](meta_muhendislik/endustriyel_tasarim_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Enerji Sistemleri Muhendisligi](meta_muhendislik/enerji_sistemleri_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
+| [Finans Muhendisligi](meta_muhendislik/finans_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Fizik Muhendisligi](meta_muhendislik/fizik_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Gemi Insaati Ve Gemi Makineleri Muhendisligi](meta_muhendislik/gemi_insaati_ve_gemi_makineleri_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Gemi Makineleri Isletme Muhendisligi](meta_muhendislik/gemi_makineleri_isletme_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
@@ -96,6 +96,7 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 | [Isletme Muhendisligi](meta_muhendislik/isletme_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Jeofizik Muhendisligi](meta_muhendislik/jeofizik_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Jeoloji Muhendisligi](meta_muhendislik/jeoloji_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
+| [Kagit Bilimi Ve Muhendisligi](meta_muhendislik/kagit_bilimi_ve_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Karbon Notr Bilimi Ve Teknolojisi](meta_muhendislik/karbon_notr_bilimi_ve_teknolojisi/) | Modern teknolojik araçların ve süreçlerin ilgili alan özelinde uygulanması ve yönetimi. |
 | [Kimya Muhendisligi](meta_muhendislik/kimya_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Kontrol Ve Otomasyon Muhendisligi](meta_muhendislik/kontrol_ve_otomasyon_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
@@ -106,7 +107,6 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 | [Metalurji Ve Malzeme Muhendisligi](meta_muhendislik/metalurji_ve_malzeme_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Mikro Nano Sistemler Ve Mems](meta_muhendislik/mikro_nano_sistemler_ve_mems/) | Mikro nano sistemler ve mems alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Modelleme Ve Simulasyon](meta_muhendislik/modelleme_ve_simulasyon/) | Modelleme ve simulasyon alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Mucevherat Ve Degerli Tas Bilimi](meta_muhendislik/mucevherat_ve_degerli_tas_bilimi/) | Mucevherat ve degerli tas bilimi alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Nanoteknoloji Muhendisligi](meta_muhendislik/nanoteknoloji_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Nukleer Enerji Muhendisligi](meta_muhendislik/nukleer_enerji_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Orman Muhendisligi](meta_muhendislik/orman_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
@@ -117,7 +117,6 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 | [Su Urunleri Muhendisligi](meta_muhendislik/su_urunleri_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Tarim Makineleri Ve Teknolojileri Muhendisligi](meta_muhendislik/tarim_makineleri_ve_teknolojileri_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Tekstil Muhendisligi](meta_muhendislik/tekstil_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Tutun Bilimi](meta_muhendislik/tutun_bilimi/) | Tütün bitkisinin yetiştirilmesi, endüstriyel işlenmesi ve kalite kontrol süreçleri. |
 | [Ucak Muhendisligi](meta_muhendislik/ucak_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Ulasim Muhendisligi](meta_muhendislik/ulasim_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Uzay Zaman Bilgi Muhendisligi](meta_muhendislik/uzay_zaman_bilgi_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
@@ -129,7 +128,7 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 </details>
 
 <details>
-<summary><b>🏛️ Mimarlık ve Tasarım (14 Alan)</b></summary>
+<summary><b>🏛️ Mimarlık ve Tasarım (15 Alan)</b></summary>
 <br>
 
 | Bölüm / Alan | Akademik Odak / Misyon |
@@ -142,6 +141,7 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 | [Kultur Varliklarini Koruma Ve Onarim](mimarlik_ve_tasarim/kultur_varliklarini_koruma_ve_onarim/) | Kultur varliklarini koruma ve onarim alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Kuyumculuk Ve Mucevher Tasarimi](mimarlik_ve_tasarim/kuyumculuk_ve_mucevher_tasarimi/) | Kuyumculuk ve mucevher tasarimi alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Mimarlik](mimarlik_ve_tasarim/mimarlik/) | Mimarlik alanında teorik ve pratik uzmanlık çalışmaları. |
+| [Mucevherat Ve Degerli Tas Bilimi](mimarlik_ve_tasarim/mucevherat_ve_degerli_tas_bilimi/) | Mucevherat ve degerli tas bilimi alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Muzik](mimarlik_ve_tasarim/muzik/) | Muzik alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Peyzaj Mimarligi](mimarlik_ve_tasarim/peyzaj_mimarligi/) | Peyzaj mimarligi alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Sehir Ve Bolge Planlama](mimarlik_ve_tasarim/sehir_ve_bolge_planlama/) | Sehir ve bolge planlama alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -152,7 +152,7 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 </details>
 
 <details>
-<summary><b>🖼️ Güzel Sanatlar (7 Alan)</b></summary>
+<summary><b>🖼️ Güzel Sanatlar (8 Alan)</b></summary>
 <br>
 
 | Bölüm / Alan | Akademik Odak / Misyon |
@@ -162,6 +162,7 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 | [Fotograf](guzel_sanatlar/fotograf/) | Fotograf alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Geleneksel Cin Operasi Ve Muzigi](guzel_sanatlar/geleneksel_cin_operasi_ve_muzigi/) | Geleneksel cin operasi ve muzigi alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Geleneksel Turk Sanatlari](guzel_sanatlar/geleneksel_turk_sanatlari/) | Geleneksel turk sanatlari alanında teorik ve pratik uzmanlık çalışmaları. |
+| [Guzel Sanatlar Arastirma](guzel_sanatlar/guzel_sanatlar_arastirma/) | Guzel sanatlar arastirma alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Heykel](guzel_sanatlar/heykel/) | Heykel alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Resim](guzel_sanatlar/resim/) | Resim alanında teorik ve pratik uzmanlık çalışmaları. |
 
@@ -207,7 +208,7 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 </details>
 
 <details>
-<summary><b>🎓 Eğitim ve Öğretmenlik (15 Alan)</b></summary>
+<summary><b>🎓 Eğitim ve Öğretmenlik (16 Alan)</b></summary>
 <br>
 
 | Bölüm / Alan | Akademik Odak / Misyon |
@@ -215,6 +216,7 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 | [Beden Egitimi Ve Spor Ogretmenligi](ogretmenlik/beden_egitimi_ve_spor_ogretmenligi/) | Beden egitimi ve spor ogretmenligi alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Bilgisayar Ve Ogretim Teknolojileri Egitimi](ogretmenlik/bilgisayar_ve_ogretim_teknolojileri_egitimi/) | Bilgisayar ve ogretim teknolojileri egitimi alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Din Kulturu Ve Ahlak Bilgisi Ogretmenligi](ogretmenlik/din_kulturu_ve_ahlak_bilgisi_ogretmenligi/) | Din kulturu ve ahlak bilgisi ogretmenligi alanında teorik ve pratik uzmanlık çalışmaları. |
+| [Egitim Yonetimi](ogretmenlik/egitim_yonetimi/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
 | [Fen Bilgisi Ogretmenligi](ogretmenlik/fen_bilgisi_ogretmenligi/) | Fen bilgisi ogretmenligi alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Ilkogretim Matematik Ogretmenligi](ogretmenlik/ilkogretim_matematik_ogretmenligi/) | Ilkogretim matematik ogretmenligi alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Ingilizce Ogretmenligi](ogretmenlik/ingilizce_ogretmenligi/) | Ingilizce ogretmenligi alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -381,9 +383,9 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 | [Bitki Koruma](tarim_ve_ziraat_bilimleri/bitki_koruma/) | Bitki koruma alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Biyolojik Islah Teknolojisi](tarim_ve_ziraat_bilimleri/biyolojik_islah_teknolojisi/) | Modern teknolojik araçların ve süreçlerin ilgili alan özelinde uygulanması ve yönetimi. |
 | [Cay Bilimi Ve Teknolojisi](tarim_ve_ziraat_bilimleri/cay_bilimi_ve_teknolojisi/) | Modern teknolojik araçların ve süreçlerin ilgili alan özelinde uygulanması ve yönetimi. |
-| [Kagit Bilimi Ve Muhendisligi](tarim_ve_ziraat_bilimleri/kagit_bilimi_ve_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Tarla Bitkileri](tarim_ve_ziraat_bilimleri/tarla_bitkileri/) | Tarla bitkileri alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Toprak Bilimi Ve Bitki Besleme](tarim_ve_ziraat_bilimleri/toprak_bilimi_ve_bitki_besleme/) | Toprak bilimi ve bitki besleme alanında teorik ve pratik uzmanlık çalışmaları. |
+| [Tutun Bilimi](tarim_ve_ziraat_bilimleri/tutun_bilimi/) | Tütün bitkisinin yetiştirilmesi, endüstriyel işlenmesi ve kalite kontrol süreçleri. |
 | [Zootekni](tarim_ve_ziraat_bilimleri/zootekni/) | Zootekni alanında teorik ve pratik uzmanlık çalışmaları. |
 
 </details>
@@ -404,11 +406,12 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 </details>
 
 <details>
-<summary><b>⚖️ Hukuk (1 Alan)</b></summary>
+<summary><b>⚖️ Hukuk (2 Alan)</b></summary>
 <br>
 
 | Bölüm / Alan | Akademik Odak / Misyon |
 | :--- | :--- |
+| [Deniz Hukuku Ve Stratejisi](hukuk_bilimi/deniz_hukuku_ve_stratejisi/) | Deniz hukuku ve stratejisi alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Hukuk](hukuk_bilimi/hukuk/) | Hukuk alanında teorik ve pratik uzmanlık çalışmaları. |
 
 </details>
@@ -505,7 +508,7 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 </details>
 
 <details>
-<summary><b>🔬 Özel Araştırma Alanları (43 Alan)</b></summary>
+<summary><b>🔬 Özel Araştırma Alanları (39 Alan)</b></summary>
 <br>
 
 | Bölüm / Alan | Akademik Odak / Misyon |
@@ -523,12 +526,8 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 | [Climate Tech Ve Karbon Yakalama](ozel_arastirma_alanlari/climate_tech_ve_karbon_yakalama/) | Climate tech ve karbon yakalama alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Contex Engineering](ozel_arastirma_alanlari/contex_engineering/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Cyber Physical Systems](ozel_arastirma_alanlari/cyber_physical_systems/) | Cyber physical systems alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Egitim Yonetimi](ozel_arastirma_alanlari/egitim_yonetimi/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
-| [Finans Muhendisligi](ozel_arastirma_alanlari/finans_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Fintek Ai](ozel_arastirma_alanlari/fintek_ai/) | Fintek ai alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Fotografcilik Ve Video](ozel_arastirma_alanlari/fotografcilik_ve_video/) | Fotografcilik ve video alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Guvenlik Bilimleri Ve Strateji](ozel_arastirma_alanlari/guvenlik_bilimleri_ve_strateji/) | Guvenlik bilimleri ve strateji alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Guzel Sanatlar](ozel_arastirma_alanlari/guzel_sanatlar/) | Guzel sanatlar alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Hukuk Ve Ai Etigi](ozel_arastirma_alanlari/hukuk_ve_ai_etigi/) | Hukuk ve ai etigi alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Kamu Guvenligi Muhendisligi](ozel_arastirma_alanlari/kamu_guvenligi_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Kuantum Iletisim Ve Kriptografi](ozel_arastirma_alanlari/kuantum_iletisim_ve_kriptografi/) | Kuantum iletisim ve kriptografi alanında teorik ve pratik uzmanlık çalışmaları. |
