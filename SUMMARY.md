@@ -2,7 +2,7 @@
 
 Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur. Tüm bölümler YÖK standartlarına ve küresel (Örn: Çin MoE) profesyonel gerekliliklere göre gruplandırılmıştır.
 
-**Toplam Kapsam:** 361 Akademik ve Profesyonel Alan (Global 7-Tier Elite Structure)
+**Toplam Kapsam:** 385 Akademik ve Profesyonel Alan (Global 7-Tier Elite Structure)
 
 ## 🛠️ Mühendislik Bilimleri
 
@@ -12,8 +12,12 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur. T
 | Akilli Deniz Ekipmanlari | [akilli_deniz_ekipmanlari](meta_muhendislik/akilli_deniz_ekipmanlari/) |
 | Akilli Gorsel Isitsel Muhendislik | [akilli_gorsel_isitsel_muhendislik](meta_muhendislik/akilli_gorsel_isitsel_muhendislik/) |
 | Akilli Gorsel Muhendislik | [akilli_gorsel_muhendislik](meta_muhendislik/akilli_gorsel_muhendislik/) |
+| Akilli Malzemeler Ve Teknoloji | [akilli_malzemeler_ve_teknoloji](meta_muhendislik/akilli_malzemeler_ve_teknoloji/) |
 | Akilli Molekuler Muhendislik | [akilli_molekuler_muhendislik](meta_muhendislik/akilli_molekuler_muhendislik/) |
+| Akilli Sebeke Bilgi Ve Muhendisligi | [akilli_sebeke_bilgi_ve_muhendisligi](meta_muhendislik/akilli_sebeke_bilgi_ve_muhendisligi/) |
+| Ambalaj Muhendisligi | [ambalaj_muhendisligi](meta_muhendislik/ambalaj_muhendisligi/) |
 | Basim Teknolojileri | [basim_teknolojileri](meta_muhendislik/basim_teknolojileri/) |
+| Beyin Bilgisayar Arayuzu Bci Muhendisligi | [beyin_bilgisayar_arayuzu_bci_muhendisligi](meta_muhendislik/beyin_bilgisayar_arayuzu_bci_muhendisligi/) |
 | Bilgisayar Muhendisligi | [bilgisayar_muhendisligi](meta_muhendislik/bilgisayar_muhendisligi/) |
 | Bilisim Sistemleri Muhendisligi | [bilisim_sistemleri_muhendisligi](meta_muhendislik/bilisim_sistemleri_muhendisligi/) |
 | Biyokimya Muhendisligi | [biyokimya_muhendisligi](meta_muhendislik/biyokimya_muhendisligi/) |
@@ -32,6 +36,7 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur. T
 | Endustriyel Tasarim Muhendisligi | [endustriyel_tasarim_muhendisligi](meta_muhendislik/endustriyel_tasarim_muhendisligi/) |
 | Enerji Sistemleri Muhendisligi | [enerji_sistemleri_muhendisligi](meta_muhendislik/enerji_sistemleri_muhendisligi/) |
 | Fizik Muhendisligi | [fizik_muhendisligi](meta_muhendislik/fizik_muhendisligi/) |
+| Fonksiyonel Malzeme Bilimi | [fonksiyonel_malzeme_bilimi](meta_muhendislik/fonksiyonel_malzeme_bilimi/) |
 | Gemi Insaati Ve Gemi Makineleri Muhendisligi | [gemi_insaati_ve_gemi_makineleri_muhendisligi](meta_muhendislik/gemi_insaati_ve_gemi_makineleri_muhendisligi/) |
 | Gemi Makineleri Isletme Muhendisligi | [gemi_makineleri_isletme_muhendisligi](meta_muhendislik/gemi_makineleri_isletme_muhendisligi/) |
 | Geomatik Muhendisligi | [geomatik_muhendisligi](meta_muhendislik/geomatik_muhendisligi/) |
@@ -54,24 +59,32 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur. T
 | Mekatronik Muhendisligi | [mekatronik_muhendisligi](meta_muhendislik/mekatronik_muhendisligi/) |
 | Metalurji Ve Malzeme Muhendisligi | [metalurji_ve_malzeme_muhendisligi](meta_muhendislik/metalurji_ve_malzeme_muhendisligi/) |
 | Mikro Elektro Mekanik Sistemler Mems | [mikro_elektro_mekanik_sistemler_mems](meta_muhendislik/mikro_elektro_mekanik_sistemler_mems/) |
+| Mikro Nano Sistemler Ve Cihazlar | [mikro_nano_sistemler_ve_cihazlar](meta_muhendislik/mikro_nano_sistemler_ve_cihazlar/) |
 | Modelleme Ve Simulasyon | [modelleme_ve_simulasyon](meta_muhendislik/modelleme_ve_simulasyon/) |
+| Mucevherat Ve Degerli Tas Bilimi | [mucevherat_ve_degerli_tas_bilimi](meta_muhendislik/mucevherat_ve_degerli_tas_bilimi/) |
 | Nanoteknoloji Muhendisligi | [nanoteknoloji_muhendisligi](meta_muhendislik/nanoteknoloji_muhendisligi/) |
 | Nukleer Enerji Muhendisligi | [nukleer_enerji_muhendisligi](meta_muhendislik/nukleer_enerji_muhendisligi/) |
+| Nukleer Kimya Muhendisligi | [nukleer_kimya_muhendisligi](meta_muhendislik/nukleer_kimya_muhendisligi/) |
 | Orman Muhendisligi | [orman_muhendisligi](meta_muhendislik/orman_muhendisligi/) |
 | Otomotiv Muhendisligi | [otomotiv_muhendisligi](meta_muhendislik/otomotiv_muhendisligi/) |
 | Rayli Sistemler Muhendisligi | [rayli_sistemler_muhendisligi](meta_muhendislik/rayli_sistemler_muhendisligi/) |
+| Rayli Sistemler Sinyalizasyon Ve Kontrol | [rayli_sistemler_sinyalizasyon_ve_kontrol](meta_muhendislik/rayli_sistemler_sinyalizasyon_ve_kontrol/) |
+| Seramik Tasarimi Ve Muhendisligi | [seramik_tasarimi_ve_muhendisligi](meta_muhendislik/seramik_tasarimi_ve_muhendisligi/) |
+| Sevk Ve Itki Muhendisligi | [sevk_ve_itki_muhendisligi](meta_muhendislik/sevk_ve_itki_muhendisligi/) |
 | Siber Guvenlik Muhendisligi | [siber_guvenlik_muhendisligi](meta_muhendislik/siber_guvenlik_muhendisligi/) |
 | Su Urunleri Muhendisligi | [su_urunleri_muhendisligi](meta_muhendislik/su_urunleri_muhendisligi/) |
 | Tarim Makineleri Ve Teknolojileri Muhendisligi | [tarim_makineleri_ve_teknolojileri_muhendisligi](meta_muhendislik/tarim_makineleri_ve_teknolojileri_muhendisligi/) |
 | Tekstil Muhendisligi | [tekstil_muhendisligi](meta_muhendislik/tekstil_muhendisligi/) |
 | Tekstil Tasarimi | [tekstil_tasarimi](meta_muhendislik/tekstil_tasarimi/) |
 | Tekstil Teknolojisi Muhendisligi | [tekstil_teknolojisi_muhendisligi](meta_muhendislik/tekstil_teknolojisi_muhendisligi/) |
+| Tutun Bilimi | [tutun_bilimi](meta_muhendislik/tutun_bilimi/) |
 | Ucak Muhendisligi | [ucak_muhendisligi](meta_muhendislik/ucak_muhendisligi/) |
 | Ulasim Muhendisligi | [ulasim_muhendisligi](meta_muhendislik/ulasim_muhendisligi/) |
 | Uzay Zaman Bilgi Muhendisligi | [uzay_zaman_bilgi_muhendisligi](meta_muhendislik/uzay_zaman_bilgi_muhendisligi/) |
 | Yapay Zeka Ve Veri Muhendisligi | [yapay_zeka_ve_veri_muhendisligi](meta_muhendislik/yapay_zeka_ve_veri_muhendisligi/) |
 | Yazilim Muhendisligi | [yazilim_muhendisligi](meta_muhendislik/yazilim_muhendisligi/) |
 | Yuksek Guclu Yariiletken Bilimi Ve Muhendisligi | [yuksek_guclu_yariiletken_bilimi_ve_muhendisligi](meta_muhendislik/yuksek_guclu_yariiletken_bilimi_ve_muhendisligi/) |
+| Yumusak Madde Bilimi Ve Muhendisligi | [yumusak_madde_bilimi_ve_muhendisligi](meta_muhendislik/yumusak_madde_bilimi_ve_muhendisligi/) |
 | Ziraat Muhendisligi | [ziraat_muhendisligi](meta_muhendislik/ziraat_muhendisligi/) |
 
 ## 🏛️ Mimarlık ve Tasarım
@@ -122,11 +135,13 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur. T
 | Ergoterapi | [ergoterapi](saglik/ergoterapi/) |
 | Fizyoterapi Ve Rehabilitasyon | [fizyoterapi_ve_rehabilitasyon](saglik/fizyoterapi_ve_rehabilitasyon/) |
 | Geleneksel Cin Tibbi | [geleneksel_cin_tibbi](saglik/geleneksel_cin_tibbi/) |
+| Geleneksel Cin Veteriner Hekimligi | [geleneksel_cin_veteriner_hekimligi](saglik/geleneksel_cin_veteriner_hekimligi/) |
 | Gerontoloji | [gerontoloji](saglik/gerontoloji/) |
 | Hemsirelik | [hemsirelik](saglik/hemsirelik/) |
 | Is Ve Ugrasi Terapisi | [is_ve_ugrasi_terapisi](saglik/is_ve_ugrasi_terapisi/) |
 | Medikal Cihaz Ve Ekipman Muhendisligi | [medikal_cihaz_ve_ekipman_muhendisligi](saglik/medikal_cihaz_ve_ekipman_muhendisligi/) |
 | Molekuler Biyoloji Ve Genetik | [molekuler_biyoloji_ve_genetik](saglik/molekuler_biyoloji_ve_genetik/) |
+| Nukleer Eczacilik | [nukleer_eczacilik](saglik/nukleer_eczacilik/) |
 | Odyoloji | [odyoloji](saglik/odyoloji/) |
 | Ozurluluk Calismalari | [ozurluluk_calismalari](saglik/ozurluluk_calismalari/) |
 | Perfuzyon | [perfuzyon](saglik/perfuzyon/) |
@@ -164,7 +179,9 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur. T
 |--------------|-----|
 | Antrenorluk Egitimi | [antrenorluk_egitimi](spor_bilimleri/antrenorluk_egitimi/) |
 | Beden Egitimi Ve Spor Bilimleri | [beden_egitimi_ve_spor_bilimleri](spor_bilimleri/beden_egitimi_ve_spor_bilimleri/) |
+| Buz Ve Kar Dansi Performansi | [buz_ve_kar_dansi_performansi](spor_bilimleri/buz_ve_kar_dansi_performansi/) |
 | Futbol Bilimi | [futbol_bilimi](spor_bilimleri/futbol_bilimi/) |
+| Geleneksel Cin Savas Sanatlari Wushu | [geleneksel_cin_savas_sanatlari_wushu](spor_bilimleri/geleneksel_cin_savas_sanatlari_wushu/) |
 | Havacilik Sporlari | [havacilik_sporlari](spor_bilimleri/havacilik_sporlari/) |
 | Rekreasyon | [rekreasyon](spor_bilimleri/rekreasyon/) |
 | Spor Yoneticiligi | [spor_yoneticiligi](spor_bilimleri/spor_yoneticiligi/) |
@@ -206,6 +223,7 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur. T
 | Sosyal Hizmet | [sosyal_hizmet](sosyal_ve_beseri_bilimler/sosyal_hizmet/) |
 | Sosyoloji | [sosyoloji](sosyal_ve_beseri_bilimler/sosyoloji/) |
 | Stratejik Hammadde Ekonomisi | [stratejik_hammadde_ekonomisi](sosyal_ve_beseri_bilimler/stratejik_hammadde_ekonomisi/) |
+| Su Sektoru Ekonomisi Ve Yonetimi | [su_sektoru_ekonomisi_ve_yonetimi](sosyal_ve_beseri_bilimler/su_sektoru_ekonomisi_ve_yonetimi/) |
 | Tarih | [tarih](sosyal_ve_beseri_bilimler/tarih/) |
 | Uluslararasi Iliskiler | [uluslararasi_iliskiler](sosyal_ve_beseri_bilimler/uluslararasi_iliskiler/) |
 | Uluslararasi Ticaret Ve Lojistik | [uluslararasi_ticaret_ve_lojistik](sosyal_ve_beseri_bilimler/uluslararasi_ticaret_ve_lojistik/) |
@@ -237,6 +255,7 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur. T
 | Arap Dili Ve Edebiyati | [arap_dili_ve_edebiyati](edebiyat_ve_diller/arap_dili_ve_edebiyati/) |
 | Cin Dili Ve Edebiyati | [cin_dili_ve_edebiyati](edebiyat_ve_diller/cin_dili_ve_edebiyati/) |
 | Cin Klasik Calismalari | [cin_klasik_calismalari](edebiyat_ve_diller/cin_klasik_calismalari/) |
+| Dogu Kulturleri Ve Bolge Arastirmalari | [dogu_kulturleri_ve_bolge_arastirmalari](edebiyat_ve_diller/dogu_kulturleri_ve_bolge_arastirmalari/) |
 | Fars Dili Ve Edebiyati | [fars_dili_ve_edebiyati](edebiyat_ve_diller/fars_dili_ve_edebiyati/) |
 | Fransiz Dili Ve Edebiyati | [fransiz_dili_ve_edebiyati](edebiyat_ve_diller/fransiz_dili_ve_edebiyati/) |
 | Hititoloji | [hititoloji](edebiyat_ve_diller/hititoloji/) |
@@ -279,6 +298,7 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur. T
 | Bitki Koruma | [bitki_koruma](tarim_ve_ziraat_bilimleri/bitki_koruma/) |
 | Biyolojik Islah Teknolojisi | [biyolojik_islah_teknolojisi](tarim_ve_ziraat_bilimleri/biyolojik_islah_teknolojisi/) |
 | Cay Bilimi Ve Teknolojisi | [cay_bilimi_ve_teknolojisi](tarim_ve_ziraat_bilimleri/cay_bilimi_ve_teknolojisi/) |
+| Kagit Bilimi Ve Muhendisligi | [kagit_bilimi_ve_muhendisligi](tarim_ve_ziraat_bilimleri/kagit_bilimi_ve_muhendisligi/) |
 | Tarla Bitkileri | [tarla_bitkileri](tarim_ve_ziraat_bilimleri/tarla_bitkileri/) |
 | Toprak Bilimi Ve Bitki Besleme | [toprak_bilimi_ve_bitki_besleme](tarim_ve_ziraat_bilimleri/toprak_bilimi_ve_bitki_besleme/) |
 | Zootekni | [zootekni](tarim_ve_ziraat_bilimleri/zootekni/) |
@@ -396,6 +416,8 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur. T
 | Guvenlik Bilimleri Ve Strateji | [guvenlik_bilimleri_ve_strateji](ozel_arastirma_alanlari/guvenlik_bilimleri_ve_strateji/) |
 | Guzel Sanatlar | [guzel_sanatlar](ozel_arastirma_alanlari/guzel_sanatlar/) |
 | Hukuk Ve Ai Etigi | [hukuk_ve_ai_etigi](ozel_arastirma_alanlari/hukuk_ve_ai_etigi/) |
+| Kamu Guvenligi Muhendisligi | [kamu_guvenligi_muhendisligi](ozel_arastirma_alanlari/kamu_guvenligi_muhendisligi/) |
+| Kuantum Iletisim Ve Kriptografi | [kuantum_iletisim_ve_kriptografi](ozel_arastirma_alanlari/kuantum_iletisim_ve_kriptografi/) |
 | Kuantum Muhendisligi | [kuantum_muhendisligi](ozel_arastirma_alanlari/kuantum_muhendisligi/) |
 | Longevity Science Advanced | [longevity_science_advanced](ozel_arastirma_alanlari/longevity_science_advanced/) |
 | Merkeziyetsiz Finans Defi | [merkeziyetsiz_finans_defi](ozel_arastirma_alanlari/merkeziyetsiz_finans_defi/) |
@@ -414,7 +436,9 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur. T
 | Regenerative Medicine | [regenerative_medicine](ozel_arastirma_alanlari/regenerative_medicine/) |
 | Savunma Sanayii Stratejileri | [savunma_sanayii_stratejileri](ozel_arastirma_alanlari/savunma_sanayii_stratejileri/) |
 | Ton Os Ekosistemi | [ton_os_ekosistemi](ozel_arastirma_alanlari/ton_os_ekosistemi/) |
+| Ulusal Guvenlik Arastirmalari Ileri | [ulusal_guvenlik_arastirmalari_ileri](ozel_arastirma_alanlari/ulusal_guvenlik_arastirmalari_ileri/) |
 | Uzay Madenciligi Ve Lojistigi | [uzay_madenciligi_ve_lojistigi](ozel_arastirma_alanlari/uzay_madenciligi_ve_lojistigi/) |
+| Yurtdisi Cikarlarin Guvenligi Ve Korunmasi | [yurtdisi_cikarlarin_guvenligi_ve_korunmasi](ozel_arastirma_alanlari/yurtdisi_cikarlarin_guvenligi_ve_korunmasi/) |
 
 ## 🚀 Kariyer ve Sertifikasyonlar
 
