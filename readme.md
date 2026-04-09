@@ -24,6 +24,9 @@ AOS, bilgiyi sadece tüketilen bir meta olarak değil, inşa edilen bir mimari o
 ## ⚙️ SİSTEMATİK YAPI: 7-KADEMELİ ELİT NİZAM (00-06)
 AOS içindeki her branş, rastgele notlar yerine **Systemum Standardı** adı verilen 7 katmanlı rijit bir hiyerarşi üzerine inşa edilmiştir. Bu yapı, Bologna Süreci ve ABET standartlarının ötesine geçerek, bireysel uzmanlığı otonom üretim seviyesine taşır:
 
+> [!NOTE]
+> **Hiyerarşik Ontoloji:** Veri -> Enformasyon -> Bilgi -> Hikmet dönüşümünü sağlamak için her alan dikey olarak bu 7 kademeye bölünmüştür.
+
 1. **`00 — Hazırlık & Oryantasyon`**: Terminoloji hakimiyeti, yabancı dil yeterliliği ve metodolojik giriş.
 2. **`01 — Teorik Temeller`**: Matematiksel modelleme, fiziksel yasalar ve disiplinin kuramsal omurgası.
 3. **`02 — Çekirdek Müfredat`**: Zorunlu ana branş yetkinlikleri ve uygulama pratikleri.
@@ -58,6 +61,15 @@ AOS, 21. yüzyılın en ileri araçlarıyla donatılmış bir "Dijital Medrese"d
 - **Geliştirme Ortamı:** Cursor / Windsurf (Agentic Coding & Otomasyon)
 - **Araştırma Motoru:** Perplexity Pro (Gerçek Zamanlı Akademik Arama)
 - **Bilgi Yönetimi:** Obsidian & Markdown Hiyerarşisi (Epistemolojik Graft)
+
+---
+
+## 🎯 KULLANIM REHBERİ: AOS NASIL ÇALIŞIR?
+AOS bir depodan (Repository) ziyade, bir yaşam tarzı ve kariyer yönetim mekanizmasıdır:
+1. **Navigasyon:** SUMMARY.md üzerinden ilgilenen alanı seçin.
+2. **Standardizasyon:** Her alandaki 00-06 yapısını takip edin.
+3. **Üretim:** Öğrendiğiniz her bilgiyi 04 katmanında somut bir projeye dönüştürün.
+4. **Sinerji:** Farklı konteynerlar (Örn: Mühendislik ve Felsefe) arasındaki bağları `cross-references` ile kurun.
 
 ---
 
