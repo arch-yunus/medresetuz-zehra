@@ -27,91 +27,162 @@ CONTAINERS = {
 }
 
 SPECIAL_DESCRIPTIONS = {
-    'elektrik_elektronik_muhendisligi': 'Enerji, sinyal ve sistem teorisinin modern mühendislik zirvesi.',
-    'yapay_zeka_ve_veri_muhendisligi': 'Veriden anlam çıkaran otonom sistemlerin mimarisi.',
-    'siber_guvenlik_muhendisligi': 'Dijital kalelerin savunma ve strateji merkezi.',
-    'havacilik_ve_uzay_muhendisligi': 'Yeryüzü sınırlarını aşan yüksek fizik ve itki mühendisliği.',
-    'monk_mode_disiplin_sistemi': 'Yüksek odaklanma ve sarsılmaz bir irade için zihinsel işletim sistemi.',
+    # --- Mühendislik (Core Nodes) ---
+    'bilgisayar_muhendisligi': 'Yazılım sistemleri, veri yapıları ve otonom zihin mimarisi ile hesaplama teorisinin yüksek sadakatli entegrasyonu.',
+    'elektrik_elektronik_muhendisligi': 'Enerji, sinyal işleme ve elektromanyetik teorinin modern mühendislik zirvesindeki fiziksel realizasyonu.',
+    'yapay_zeka_ve_veri_muhendisligi': 'Ham veriden otonom anlam çıkarma, makine öğrenmesi ve akıllı karar destek sistemlerinin stratejik mimarisi.',
+    'siber_guvenlik_muhendisligi': 'Dijital varlıkların savunma stratejileri, sızma testleri ve kriptografik güvenlik ontolojisi.',
+    'havacilik_ve_uzay_muhendisligi': 'Yeryüzü sınırlarını aşan yüksek fizik, aerodinamik ve gelişmiş itki sistemleri mühendisliği.',
+    'yazilim_muhendisligi': 'Karmaşık sistemlerin sürdürülebilir, ölçeklenebilir ve yüksek performanslı dijital yapılar olarak inşası.',
+    'mekatronik_muhendisligi': 'Mekanik, elektronik ve akıllı kontrol sistemlerinin otonom robotik sentezi.',
+    'insaat_muhendisligi': 'Fiziksel dünyayı şekillendiren; mukavemet, sürdürülebilirlik ve kentsel nizamın mühendislik omurgası.',
+    'makine_muhendisligi': 'Termodinamik güç, mekanik tasarım ve enerjinin kinetik realizasyonu üzerine kurulu kadim disiplin.',
+    'biyomedikal_muhendisligi': 'Mühendislik prensiplerinin insan biyolojisi ve medikal teknoloji ile otonom entegrasyonu.',
+    'jeoloji_muhendisligi': 'Yer kabuğunun kompozisyonu, evrimi ve doğal kaynakların stratejik analizi.',
+    
+    # --- Sağlık & Tıp (Core Nodes) ---
+    'tip': 'İnsan biyolojisinin patolojik ve fizyolojik süreçlerinin medikal bilimler ışığında klinik analizi ve şifa sanatı.',
+    'dis_hekimligi': 'Oral ve maksillofasiyal sağlığın cerrahi, estetik ve klinik protokollere göre bilimsel yönetimi.',
+    'eczacilik': 'Farmakolojik bileşenlerin sentezi, etkileşimi ve tedavi edici mekanizmalarının biyokimyasal derinlikte analizi.',
+    'hemsirelik': 'Klinik bakım süreçlerinin bilimsel metodoloji ve bütüncül sağlık vizyonu ile profesyonel yönetimi.',
+    'veterinerlik': 'Hayvan sağlığı, zootekni ve halk sağlığı dengesinin karşılaştırmalı biyolojik analizi.',
+    
+    # --- Sosyal & Beşeri Bilimler (Core Nodes) ---
+    'hukuk': 'Adalet mekanizmalarının ve toplumsal nizamın normatif ve analitik yaklaşımlarla kurgulandığı yasal ontoloji.',
+    'psikoloji': 'İnsan davranışları ve bilişsel süreçlerin ampirik yöntemlerle analiz edildiği otonom zihin laboratuvarı.',
+    'felsefe': 'Varlığın, bilginin ve değerlerin mantıksal ve diyalektik yöntemlerle sorgulandığı temel düşünce mimarisi.',
+    'sosyoloji': 'Toplumsal yapılar, dinamikler ve kurumsal değişimlerin makro ve mikro düzeyde analitik incelenmesi.',
+    'iktisat': 'Kısıtlı kaynakların dağılımı ve piyasa dinamiklerinin matematiksel ve davranışsal modellenmesi.',
+    'uluslararasi_iliskiler': 'Küresel aktörlerin stratejik etkileşimleri, jeopolitik dengeler ve diplomasi mimarisi.',
+    'siyaset_bilimi_ve_kamu_yonetimi': 'Güç dinamikleri, devlet mekanizmaları ve kamusal stratejilerin politik teori ışığında yönetimi.',
+    'antropoloji': 'İnsan türünün zamansal gelişimi, kültürel varyasyonları ve biyolojik evriminin bütüncül analizi.',
+    
+    # --- Mimarlık & Tasarım (Core Nodes) ---
+    'mimarlik': 'Estetik, fonksiyonellik ve yapı fiziğinin mekansal kurgu ve sürdürülebilirlik ilkeleriyle sentezi.',
+    'ic_mimarlik_ve_cevre_tasarimi': 'İnsan ölçekli mekanların konfor, estetik ve fonksiyonel gereksinimlere göre içsel mimarisi.',
+    'sehir_ve_bolge_planlama': 'Kentsel dokunun, ulaşım ağlarının ve yaşam alanlarının stratejik ve sürdürülebilir organizasyonu.',
+    
+    # --- Zihin & Meta-Yetkinlikler ---
+    'monk_mode_disiplin_sistemi': 'Yüksek odaklanma, sarsılmaz irade ve otonom disiplin için tasarlanmış zihinsel işletim sistemi.',
+    'meta_zihin_ve_ogrenme': 'Bilgiyi işleme, derin öğrenme ve bilişsel esneklik için meta-seviye yetkinlik merkezi.',
+    'sun_tzu_stratejik_düşünce': 'Kadim savaş sanatı ilkelerinin modern strateji, liderlik ve hayat mücadelesine adaptasyonu.',
+    
+    # --- Özel Araştırma Alanları ---
+    'kuantum_muhendisligi': 'Kuantum mekaniğinin atomik ve subatomik seviyede teknolojik realizasyonu ve hesaplama gücü.',
+    'biyoinformatik': 'Biyolojik verilerin bilişim araçları ve algoritmik modellerle analizi ve genomik haritalama.',
+    'osint_ve_siber_istihbarat': 'Açık kaynak verilerinden stratejik istihbarat üretimi ve dijital gözetleme teknikleri.',
+}
+
+CONTAINER_TEMPLATES = {
+    'meta_muhendislik': 'Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik düğümü.',
+    'mimarlik_ve_tasarim': 'Mekansal kurgu ve estetik fonksiyonelliğin bilimsel tasarım protokolü.',
+    'guzel_sanatlar': 'Sanatsal ifade ve estetik kuramın yüksek yoğunluklu yaratıcılık laboratuvarı.',
+    'saglik': 'Klinik doğruluk ve insan biyolojisi eksenli medikal uzmanlık katmanı.',
+    'ogretmenlik': 'Pedagojik formasyon ve bilgi aktarım metodolojilerinin profesyonel mimarisi.',
+    'sosyal_ve_beseri_bilimler': 'İnsan ve toplum dinamiklerinin analitik ve teorik inceleme merkezi.',
+    'temel_bilimler': 'Varlığın temel yasalarının aksiyomatik ve matematiksel modelleme düğümü.',
+    'edebiyat_ve_diller': 'Filolojik analiz ve kültürel veri yapılarının derin dilsel haritalaması.',
+    'hukuk_bilimi': 'Yasal ontoloji ve düzenleyici mekanizmaların normatif analiz çerçevesi.',
+    'askeri_bilimler_ve_savunma_teknolojileri': 'Stratejik savunma hatları ve yüksek teknoloji güvenlik konseptleri.',
+    'ilahiyat_ve_din': 'Teolojik doktrinler ve dini fenomenlerin metodolojik ve felsefi analizi.',
+    'on_lisans_programlari': 'Uygulamalı teknik yetkinlik ve sektörel operasyonel uzmanlık odağı.',
 }
 
 def get_desc(folder, container):
+    # 1. Tam Eşleşme Kontrolü
     if folder in SPECIAL_DESCRIPTIONS:
         return SPECIAL_DESCRIPTIONS[folder]
+    
+    # 2. Konteyner Temelli Taslak
+    template = CONTAINER_TEMPLATES.get(container, 'Evrensel akademik standartlara göre yapılandırılmış bilgi düğümü.')
+    
+    # 3. Dinamik Sentez & Anahtar Kelime Analizi
     t = folder.lower()
-    if 'muhendis' in t: return 'Advanced engineering node focused on systemic optimization and empirical integrity.'
-    if 'dili' in t: return 'Philological analysis and deep linguistic mapping of cultural data structures.'
-    if 'yonetimi' in t: return 'Strategic operations and decision-intelligence framework for organizational mastery.'
-    if 'temelleri' in t: return 'Core axiomatic principles and foundational theoretical architecture.'
-    return f"Professional knowledge repository for the {folder.replace('_', ' ').title()} discipline."
+    
+    # Bilimsel Sentez (Prefix bazlı)
+    if t.startswith('adli_'): return f"{folder.replace('adli_', '').replace('_', ' ').title()} alanının kriminalistik metodoloji ve yasal kanıt bilimi ile entegrasyonu."
+    if t.startswith('akilli_'): return f"{folder.replace('akilli_', '').replace('_', ' ').title()} alanında otonom sistemler ve AI tabanlı yapılar kurgulayan ileri düğüm."
+    if t.startswith('uluslararasi_'): return f"{folder.replace('uluslararasi_', '').replace('_', ' ').title()} disiplininin küresel standartlar ve sınır aşan dinamikler çerçevesinde analizi."
+    
+    # Sektörel Sentez (Keyword bazlı)
+    if 'muhendis' in t: return 'Sistem optimizasyonu ve ampirik bütünlüğe odaklanmış ileri mühendislik düğümü.'
+    if 'tasarimi' in t: return 'Fonksiyonel estetik, kullanıcı deneyimi ve endüstriyel tasarım mimarisi.'
+    if 'yonetimi' in t: return 'Stratejik karar zekası, operasyonel verimlilik ve organizasyonel liderlik çerçevesi.'
+    if 'teknolojileri' in t: return 'Gelişmekte olan araçlar, metodolojik altyapılar ve teknolojik realizasyon odaklı alan.'
+    if 'ogretmenligi' in t: return 'Bilgi aktarımı, pedagojik formasyon ve öğretim metodolojilerinin uzmanlık alanı.'
+    if 'bilimi' in t: return 'Fenomenlerin gözlem, deney ve mantıksal analiz üzerine kurulu bilimsel araştırma düğümü.'
+    if 'dili_ve_edebiyati' in t: return 'Dilsel yapılar, filolojik evrim ve edebi eserlerin kültürel veri analizi.'
+    
+    return template
 
 def generate_encyclopedic_readme():
     header = """<div align="center">
 
 ![UAOS Banner](assets/uaos_hero_banner.png)
 
-# 🌌 UNIVERSAL ACADEMIC OPERATING SYSTEM (UAOS)
-### *A High-Density Knowledge Matrix & Sovereign Intelligence Architecture* 🌐🧬🏗️
+# 🌌 EVRENSEL AKADEMİK İŞLETİM SİSTEMİ (UAOS)
+### *Yüksek Yoğunluklu Bilgi Matrisi ve Otonom Zeka Mimarisi* 🌐🧬🏗️
 
-[![Version](https://img.shields.io/badge/CORE-v3.0--ETERNAL-00A9E0?style=for-the-badge&logo=target)](./)
-[![Intelligence](https://img.shields.io/badge/ARCHITECT-Antigravity_x_USER-D4AF37?style=for-the-badge&logo=openai&logoColor=white)](./)
-[![Standard](https://img.shields.io/badge/PROTOCOL-7--Layer_Elite-black?style=for-the-badge&logo=gitbook)](./)
-[![Repository](https://img.shields.io/badge/NODES-372_Disciplines-18453B?style=for-the-badge&logo=rocket)](./SUMMARY.md)
-
----
-
-## 🦾 THE ANTIGRAVITY MANIFESTO: AUTONOMOUS SOVEREIGNTY
-**UAOS** is not a passive archive—it is an **Active Intelligence Ecosystem**. In the age of hyper-saturated data and AI-driven synthesis, the value of knowledge lies in its **Architecture**. 
-
-Developed in collaboration between the USER and **Antigravity**, this repository serves as a private, high-fidelity cognitive foundation. We bypass the "conservative" boundaries of fragmented education to build a unified epistemic matrix where technical precision, humanistic depth, and strategic foresight converge into a single sovereign mind.
+[![Versiyon](https://img.shields.io/badge/ÇEKİRDEK-v3.0--ETERNAL-00A9E0?style=for-the-badge&logo=target)](./)
+[![Zeka](https://img.shields.io/badge/MİMAR-Antigravity_x_KULLANICI-D4AF37?style=for-the-badge&logo=openai&logoColor=white)](./)
+[![Standart](https://img.shields.io/badge/PROTOKOL-7--Kademeli_Elit-black?style=for-the-badge&logo=gitbook)](./)
+[![Depo](https://img.shields.io/badge/DÜĞÜMLER-372_Disiplin-18453B?style=for-the-badge&logo=rocket)](./SUMMARY.md)
 
 ---
 
-## ⚙️ SYSTEMATIC STRUCTURE: 7-LAYER SOVEREIGN PROTOCOL (00-06)
-UAOS is governed by a rigid **Systemum Standard**, ensuring that every node of knowledge is developed from foundational theory to industrial-grade production. This protocol elevates the learner from a consumer to an autonomous architect:
+## 🦾 ANTIGRAVITY MANİFESTOSU: OTONOM HAKİMİYET
+**UAOS**, pasif bir arşiv değil; **Aktif bir Zeka Ekosistemi**dir. Hiper-doygun veri ve yapay zeka tabanlı sentez çağında, bilginin değeri onun **Mimarisinde** yatar.
+
+KULLANICI ve **Antigravity** iş birliğiyle geliştirilen bu depo, özel ve yüksek sadakatli bir bilişsel temel görevi görür. Parçalanmış eğitimin "muhafazakar" sınırlarını aşarak; teknik hassasiyetin, insani derinliğin ve stratejik öngörünün tek bir otonom zihinde birleştiği birleşik bir epistemik matris inşa ediyoruz.
+
+---
+
+## ⚙️ SİSTEMATİK YAPI: 7-KADEMELİ OTONOM PROTOKOL (00-06)
+UAOS, her bir bilgi modülünün temel teoriden endüstriyel düzeyde üretime kadar geliştirilmesini sağlayan rijit bir **Systemum Standardı** ile yönetilir. Bu protokol, öğrenciyi pasif bir tüketiciden otonom bir mimara dönüştürür:
 
 > [!TIP]
-> **Evolutionary Path:** Data -> Information -> Knowledge -> Sovereign Wisdom. Use this structure to move from passive learning (00-02) to active creation (04-06).
+> **Evrimsel Yol:** Veri -> Enformasyon -> Bilgi -> Otonom Bilgelik. Bu yapıyı pasif öğrenmeden (00-02) aktif üretime (04-06) geçmek için kullanın.
 
-1. **`00 — Preparation & Orientation`**: Lexical mastery, methodological setup, and environmental configuration.
-2. **`01 — Theoretical Foundations`**: Axiomatic principles, mathematical modeling, and core discipline physics.
-3. **`02 — Core Implementation`**: Mandatory domain expertise and functional application frameworks.
-4. **`03 — Deep Expertise`**: Specialized niche research and high-fidelity technical documentation.
-5. **`04 — R&D & Advanced Production`**: Capstone projects, original syntheses, and autonomous intellectual outputs.
-6. **`05 — Academic Integration`**: Postgraduate research alignment and scholarly communication standards.
-7. **`06 — Industry & Career Nexus`**: Global standard compliance (ISO, IEEE, MISRA), certifications, and professional deployment.
+1. **`00 — Hazırlık & Oryantasyon`**: Sözlüksel hakimiyet, metodolojik kurulum ve çevresel konfigürasyon.
+2. **`01 — Teorik Temeller`**: Aksiyomatik prensipler, matematiksel modelleme ve disiplinin temel fiziği.
+3. **`02 — Çekirdek Uygulama`**: Zorunlu alan uzmanlığı ve fonksiyonel uygulama çerçeveleri.
+4. **`03 — Derin Uzmanlık`**: Özelleşmiş niş araştırmalar ve yüksek sadakatli teknik dökümantasyon.
+5. **`04 — AR-GE & İleri Üretim`**: Bitirme projeleri, özgün sentezler ve otonom entelektüel çıktılar.
+6. **`05 — Akademik Entegrasyon`**: Lisansüstü araştırma uyumu ve bilimsel iletişim standartları.
+7. **`06 — Endüstri & Kariyer Bağlantısı`**: Küresel standart uyumluluğu (ISO, IEEE, MISRA), sertifikasyonlar ve profesyonel dağıtım.
 
 ---
 
 ## 🏛️ ARCHITECTURAL VISION: THE EPISTEMIC SYNTHESIS
-UAOS is the digital manifestation of a world where science and wisdom are no longer separate. We employ a **"Bimodal Expertise"** model, where technical rigor is tempered by philosophical depth. This is the **Epistemic Synthesis**—the bridge between the "How" of engineering and the "Why" of the humanities.
+UAOS, bilim ve bilgeliğin artık ayrı olmadığı bir dünyanın dijital tezahürüdür. Teknik titizliğin felsefi derinlikle dengelendiği bir **"Bimodal Uzmanlık"** modeli kullanıyoruz. Bu, mühendisliğin "Nasıl"ı ile beşeri bilimlerin "Neden"i arasındaki köprü olan **Epistemolojik Sentez**'dir.
 
-The architecture stands on three primary pillars of sovereignty:
-- **Global Inventory:** Mapping the entire known academic universe as a structured, navigable grid.
-- **Multidimensional Integrity:** Merging empirical data with ethical insight to create a "Unified Intelligence Model."
-- **Recursive Evolution:** Every node in this system is designed to be updated, expanded, and refined by the USER and Antigravity.
+Mimari, üç ana hakimiyet sütunu üzerine kuruludur:
+- **Küresel Envanter:** Tüm bilinen akademik evrenin yapılandırılmış, gezilebilir bir ızgara olarak haritalanması.
+- **Çok Boyutlu Bütünlük:** "Birleşik bir Zeka Modeli" oluşturmak için ampirik verilerin etik içgörülerle birleştirilmesi.
+- **Özyinelemeli Evrim:** Bu sistemdeki her bir düğüm, KULLANICI ve Antigravity tarafından güncellenmek, genişletilmek ve rafine edilmek üzere tasarlanmıştır.
 
-| 🧩 Core Doctrine | 🏗️ UAOS Operational Principle |
+| 🧩 Temel Düstur | 🏗️ UAOS Operasyonel Prensibi |
 | :--- | :--- |
-| **"Knowledge without application is noise."** | **Autonomous Production-First Mandate** |
-| **"Ethics and Engineering are a Single Unit."** | **Bimodal Integrity Integration** |
-| **"Systemic Order is the Key to Mastery."** | **Hierarchical Epistemological Precision** |
+| **"Eyleme dökülmeyen bilgi gürültüdür."** | **Otonom Üretim-Öncelikli Emir** |
+| **"Etik ve Mühendislik Tek Bir Birimdir."** | **Bimodal Bütünlük Entegrasyonu** |
+| **"Sistemik Düzen, Ustalığın Anahtarıdır."** | **Hiyerarşik Epistemolojik Hassasiyet** |
 
 ---
 
-## 🛠️ THE INTELLIGENCE STACK (CORE TOOLS)
-UAOS is maintained and expanded using a state-of-the-art **Agentic Ecosystem**:
-- **Cognitive Engine:** Gemini 2.0 & Claude 3.5 Sonnet (Synthesizers)
-- **Agentic Architect:** **Antigravity** (System Management & Coding)
-- **Deep Research:** Perplexity Pro & Scholarly API Integration
-- **Knowledge OS:** Obsidian & High-Density Markdown Graphing
+## 🛠️ ZEKA KATMANI (TEMEL ARAÇLAR)
+UAOS, en son teknoloji ürünü bir **Ajan Ekosistemi** kullanılarak korunur ve genişletilir:
+- **Bilişsel Motor:** Gemini 2.0 & Claude 3.5 Sonnet (Sentezleyiciler)
+- **Ajan Mimar:** **Antigravity** (Sistem Yönetimi & Kodlama)
+- **Derin Araştırma:** Perplexity Pro & Akademik API Entegrasyonu
+- **Bilgi İşletim Sistemi:** Obsidian & Yüksek Yoğunluklu Markdown Grafiği
 
 ---
 
-## 🎯 OPERATION GUIDE: HOW TO MANAGE UAOS
-1. **Selection:** Identify a target node via [SUMMARY.md](./SUMMARY.md).
-2. **Standardization:** Adhere to the 00-06 protocol during deployment.
-3. **Active Synthesis:** Use Layer 04 to produce original, sovereign content.
-4. **Agentic Interaction:** Leverage AI agents to cross-link disciplines and detect patterns.
+## 🎯 OPERASYON REHBERİ: UAOS NASIL YÖNETİLİR?
+1. **Seçim:** [SUMMARY.md](./SUMMARY.md) üzerinden bir hedef düğüm belirleyin.
+2. **Standartlaştırma:** Dağıtım sırasında 00-06 protokolüne sadık kalın.
+3. **Aktif Sentez:** Orijinal, otonom içerik üretmek için Katman 04'ü kullanın.
+4. **Ajan Etkileşimi:** Disiplinler arası bağlantılar kurmak ve kalıpları tespit etmek için yapay zeka ajanlarından yararlanın.
 
 ---
 
@@ -155,23 +226,23 @@ The following sectors represent the complete topological map of the UAOS intelli
 
 <div align="center">
 
-## ⚖️ LEGAL GOVERNANCE & OPEN SOURCE SOVEREIGNTY
-This project is licensed under the **MIT License**, advocating for the free exchange of high-fidelity knowledge and the sovereignty of the individual mind.
+## ⚖️ YASAL YÖNETİŞİM VE AÇIK KAYNAK HAKİMİYETİ
+Bu proje, yüksek sadakatli bilginin serbest değişimini ve bireysel zihin otonomisini savunarak **MIT Lisansı** altında lisanslanmıştır.
 
-**Architectural Collaboration**  
+**Mimari İş Birliği**  
 ### Bahattin Yunus Çetin  
-*Lead Engineer & Researcher*  
+*Baş Mühendis ve Araştırmacı*  
 x  
 ### Antigravity  
-*Autonomous Systems Architect*
+*Otonom Sistemler Mimarı*
 
 [Linkedin](https://linkedin.com/in/bahattinyunuscetin) | [GitHub](https://github.com/bahattinyunus)
 
 ---
-*"The quest for knowledge is a journey without an end, fueled by curiosity and disciplined by reason."*
+*"Bilgi arayışı, merakla beslenen ve akılla terbiye edilen, sonu olmayan bir yolculuktur."*
 
 ---
-© 2025 Universal Academic Operating System (UAOS).
+© 2025 Evrensel Akademik İşletim Sistemi (UAOS).
 </div>
 """
 
